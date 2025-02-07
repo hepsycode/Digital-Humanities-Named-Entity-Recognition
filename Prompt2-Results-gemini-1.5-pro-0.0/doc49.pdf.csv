@@ -1,0 +1,58 @@
+```csv
+entity,latin_name,category,role
+Giovanni Colombo,Iohannes de Columbo,person,Creditor, son of Luca, brother of Benedetto Colombo
+Luca Colombo,,person,Giovanni's deceased father
+Pasquale Piaggia,Pasquali de Plazia,person,Debtor, son of Oberto, brother of Michele Piaggia, husband of Mariola
+Michele Piaggia,Michaeli de Plazia,person,Debtor, son of Oberto, brother of Pasquale Piaggia
+Oberto Piaggia,Oberti de Plazia,person,Father of Pasquale and Michele Piaggia, husband of Margarita
+Genoa,Ianue,place,Residence of several individuals involved, location of houses and businesses
+Cristoforo Sisto,Cristofori Sixti,person,Notary who authored a previous document
+Antonio Leverone,Antonio de Leverono,person,Proxy for Giovanni Colombo
+Cicagna,Plicania,place,Residence of Antonio Leverone
+Benedetto Colombo,Benedicto de Columbo,person,Creditor, brother of Giovanni Colombo, weaver
+Tommaso Piaggia,Thomam de Plazia,person,Deceased brother of Pasquale and Michele Piaggia, former owner of a house, husband of Appolonia
+House in Olivella,domus posita Ianue, in contracta Olivele,physical object,Property sold and subject of the debt, located in the Olivella district of Genoa
+Benedetto Dezerga,Benedicto de Dezerega,person,Buyer and seller of the house in Olivella
+Pietro Rimassa,Petrus Roymacia,person,Baker, father of Appolonia, father-in-law of Tommaso Piaggia
+Appolonia,Apolonie,person,Daughter of Pietro Rimassa, wife of Tommaso Piaggia
+Margarita,,person,Deceased mother of Pasquale and Michele Piaggia, wife of Oberto
+House in Portoria,domus de porta Aurea,physical object,Property encumbered by eviction, located in the Portoria district of Genoa, residence of Pasquale Piaggia
+Giacomo Assereto,Iacobi de Axereto,person,Neighbor of Pasquale Piaggia
+Battista Assereto,Baptiste de Axereto,person,Neighbor of Pasquale Piaggia
+Andrea Pietra,Andree de Petra,person,Neighbor of Pasquale Piaggia
+Quintana,quintana,place,Area behind the house in Portoria
+Benedetto Monteborgo,Benedicto de Monteburgo,person,Witness
+Giovanni Monteborgo,,person,Deceased father of Benedetto Monteborgo
+Giacomo from Savona,Iacobo de Saona,person,Witness
+Guglielmo from Savona,,person,Deceased father of Giacomo from Savona
+Borgo Santo Stefano,burgo Sancti Stephani,place,Location of the transaction, in Genoa
+Arch of the house,volta domus predicte habitationis dicti Pasqualis,place,Specific location of the transaction, under the arch of Pasquale Piaggia's house
+Domenico Colombo,Dominicus de Columbo,person,Cheesemonger, son of Giovanni, debtor
+Giovanni Colombo,,person,Deceased father of Domenico Colombo
+Gerolamo delle Vigne,Ieronimo de Vineis,person,Cheesemonger, son of Lanfranco, creditor
+Lanfranco delle Vigne,,person,Deceased father of Gerolamo delle Vigne
+Cheese,caxeo,physical object,Goods sold by Gerolamo to Domenico
+Porta Sant'Andrea,Porta Sant'Andrea,place,Location of a shop outside the gate
+Shop of Pelegro Tassorello,in taberna Pelegri Taxorelli aromatarii,place,Location of the transaction, spice shop
+Pelegro Tassorello,Pelegri Taxorelli,person,Spice dealer
+Crescio from Moconesi,Crescio de Mochonexi,person,Witness, weaver
+Simone from Moconesi,,person,Deceased father of Crescio from Moconesi
+Battista Tassorello,Battista Taxorelli,person,Witness, son of Benedetto Tassorello
+Benedetto Tassorello,Benedicti Taxorelli,person,Father of Battista Tassorello
+Bianchinetta Balbi,Benedictina,person,Wife of Pellegro Piaggia, daughter of Oberto Balbi and Domenichina, heir of Domenichina
+Oberto Balbi,Angelini de Columbo,person,Deceased father of Bianchinetta and Mariola
+Pellegro Piaggia,Iohannis de Carrega,person,Shoemaker, husband of Bianchinetta Balbi
+Mariola Balbi,Mariola,person,Sister of Bianchinetta Balbi, daughter of Oberto Balbi and Domenichina
+Domenichina Rocca,,person,Deceased mother of Bianchinetta and Mariola Balbi, daughter of Giovanni Rocca, wife of Oberto Balbi
+Giovanni Rocca,,person,Deceased father of Domenichina Rocca
+Palazzo Comunale (Genoa),Palatio Communis,place,Location of the transaction, specifically the Fraschea hall
+Fraschea Hall,in sala nominata 'Fraschea',place,Specific room in the Palazzo Comunale where the transaction took place
+Notary's bench,ad bancum mei notarii infrascripti,place,Location within the Fraschea Hall where the transaction occurred
+Lorenzo de Costa,Laurentio de Costa,person,Witness, notary
+David de Staliano,David de Staliano,person,Witness
+Antonio de Staliano,,person,Deceased father of David de Staliano
+Giuliano de Gazio,Iuliani de Gazio,person,Maternal grandfather of Bianchinetta and Mariola, advisor
+Usio,de Usio,place,Place of origin of Giuliano de Gazio
+Benedetto Colombo,Benedicti de Columbo,person,Relative of Bianchinetta and Mariola, advisor
+Giovanni di Chesta Antonio,Iohannis de Chesta Antonii,person,Relative of Bianchinetta and Mariola, advisor
+```

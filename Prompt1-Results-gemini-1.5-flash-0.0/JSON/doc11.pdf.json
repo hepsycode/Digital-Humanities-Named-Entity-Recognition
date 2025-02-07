@@ -1,0 +1,15 @@
+{
+    "response_length": 3698,
+    "execution_time": 6.091184854507446,
+    "temperature": 0.0,
+    "usage": {
+        "input_tokens": 2841,
+        "output_tokens": 916,
+        "total_tokens": 3757,
+        "input_token_details": {
+            "cache_read": 0
+        }
+    },
+    "price_usd": 0.011178,
+    "model_name": "gemini-1.5-flash"
+}

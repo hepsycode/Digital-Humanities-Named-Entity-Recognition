@@ -1,0 +1,56 @@
+Sono pronto a eseguire la Named Entity Recognition (NER) sui due testi in inglese e latino. Ecco le risultate:
+
+**Testo in inglese:**
+
+* **Personaggi:**
+ + Pietro Ghirardetto
+ + Antonio Musante (detto "Fogliazzo")
+ + Guglielmo di Triclino
+ + Antonio Ratto di Monterosato
+ + Simone di Mongiardino
+ + Lodisio di Pavia
+ + Antonino de Columbo
+ + Domenico di Terrarossa
+ + Benedetto de Moconesi
+* **Luoghi:**
+ + Genoa
+ + Quinto
+ + Bisagno
+ + Borgo Santo Stefano
+ + Palatii Ducalis (probabilmente un palazzo o una struttura pubblica)
+ + Monasterio di San Stefano
+ + Villa di Olivella
+ + Casa di Petru de Croza
+ + Casa di Bertore de Valetariis
+* **Oggetti:**
+ + Libri
+ + Soldi
+ + Navi (probabilmente riferito al commercio o alla navigazione)
+ + Carceri (non presente nel testo, ma potrebbe essere un riferimento a una prigione o a un luogo di detenzione)
+
+**Testo in latino:**
+
+* **Personaggi:**
+ + Pietro de Guiratdeto
+ + Antonio de Muzante (detto "Foliacio")
+ + Mattheus de Flisco
+ + Iacobo Mazurro
+ + Stefani et Petro Antonio Narixe
+ + Georgii, miseratione divina tituli Sancte Anastasie Sancte Romane Ecclesie presbiteri cardinalis
+* **Luoghi:**
+ + Genoa
+ + Quinto
+ + Bisagno
+ + Borgo Santo Stefano
+ + Palatii Ducalis (probabilmente un palazzo o una struttura pubblica)
+ + Monasterio di San Stefano
+ + Villa di Olivella
+ + Casa di Petru de Croza
+ + Casa di Bertore de Valetariis
+* **Oggetti:**
+ + Libri
+ + Soldi
+ + Navi (probabilmente riferito al commercio o alla navigazione)
+ + Carceri (non presente nel testo, ma potrebbe essere un riferimento a una prigione o a un luogo di detenzione)
+
+Nota che alcuni dei nomi e degli oggetti possono essere riferiti a più cose, ma in base all'analisi ho cercato di estragere le informazioni più specifiche.

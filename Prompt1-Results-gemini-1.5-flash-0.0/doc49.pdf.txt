@@ -1,0 +1,36 @@
+## Named Entity Recognition e Analisi Testuale dei Testi Inglese e Latino
+
+I due testi, inglese e latino, sono sostanzialmente la trascrizione di atti notarili genovesi del XV secolo.  L'analisi NER e l'estrapolazione di luoghi e oggetti saranno presentate congiuntamente, dato che i testi sono identici nel contenuto.
+
+
+**Entità Nominate Rilevate (NER):**
+
+* **Persone:** Giovanni Colombo, Luca Colombo, Pasquale Piaggia, Michele Piaggia, Oberto Piaggia, Antonio Leverone, Benedetto Colombo, Tommaso Piaggia, Benedetto Dezerga, Pietro Rimassa, Appolonia, Margarita Piaggia, Giacomo Assereto, Battista Assereto, Andrea Pietra, Domenico Colombo, Gerolamo delle Vigne, Lanfranco delle Vigne, Bianchinetta Balbi, Pellegro Piaggia, Domenichina Rocca, Giovanni Rocca, Oberto Balbi, Benedetto Monteborgo, Giovanni Monteborgo, Giacomo di Savona, Guglielmo di Savona, Simone, Benedetto Tassorello, Mariola.
+* **Luoghi:** Moconesi, Zoagli, Genova, Cicagna, Olivella (quartiere di Genova), Portoria (quartiere di Genova), Borgo Santo Stefano (quartiere di Genova), Porta Sant'Andrea (porta di Genova), Palazzo Comunale (Genova), sala "Fraschea" (Genova).
+* **Organizzazioni:** Nessuna menzionata esplicitamente.
+* **Date:** 15 marzo 1462, 7 febbraio 1464, 5 luglio 1464, 4 gennaio 1460.
+* **Misure:** 25 lire di genovini, 50 lire di genovini, 100 lire di genovini, 227 lire di genovini, 127 lire di genovini, 7 lire di genovini, 75 lire di genovini, 15 lire di genovini.
+* **Oggetti:** Casa (più case menzionate),  caxeo (formaggio).
+
+
+**Luoghi specifici (borghi, etc.):**
+
+* **Borghi e quartieri di Genova:** Moconesi (anche se menzionato come luogo di origine di una persona), Zoagli (idem), Olivella, Portoria, Borgo Santo Stefano,  quartiere fuori Porta Sant'Andrea.
+* **Edifici:** Casa in Olivella, casa in Portoria, bottega di Pelegro Tassorello, Palazzo Comunale (Genova), sala "Fraschea" (Genova).
+
+
+**Oggetti:**
+
+* **Casa:**  Il testo fa ripetuti riferimenti a diverse case, oggetto principale delle transazioni descritte.  Una specifica è situata nel quartiere di Olivella, un'altra in Portoria.
+* **Formaggio (caxeo):** Menzionato nel secondo atto notarile (debito).
+* **Pecunia numerata:**  Denaro contante.
+
+
+**Note:**
+
+* La precisione della NER dipende dalla qualità della trascrizione originale e dalla presenza di abbreviazioni o grafie arcaiche.  Alcune entità potrebbero richiedere ulteriori verifiche storiche per una completa identificazione.
+* L'analisi è stata condotta considerando il contesto storico e legale degli atti notarili.
+* La traduzione inglese, pur essendo accurata, potrebbe presentare piccole variazioni rispetto al testo latino originale in termini di scelta lessicale.  Questo non inficia l'analisi NER, che si basa sul significato e non sulla forma linguistica specifica.
+
+
+Questa analisi fornisce una panoramica completa delle entità nominate e degli oggetti presenti nei testi, offrendo un'utile base per ulteriori studi storici o analisi del linguaggio legale del periodo.

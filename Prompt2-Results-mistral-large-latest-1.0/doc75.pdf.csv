@@ -1,0 +1,124 @@
+Nome,Nome Estratto dal Testo Latino,Categoria,Ruolo
+Domenico,Domenico,person,Padre di Cristoforo
+Christopher,Christophere,person,Figlio di Domenico
+God,--,person,Entità religiosa
+Nicola Raggio,--,person,Notaio
+Genoa,--,place,Luogo dell'atto
+Fossatello,--,place,Luogo specifico a Genova
+Clara,Clara,place,Banco del notaio
+Raffaele of Bisagno,Raphael de Bisagno,person,Testimone, Fornaio
+Agosto from Pometò,Augostino de Pometa,person,Testimone, Figlio di Raffaele
+Giovanni Longo del Carmine,Johannes Longus de Carmine,person,Testimone, Figlio di Giovanni
+Leone Cigala,Leo de Cigalis,person,Membro della Gilda dei Tessitori di Panni di Lana
+Guglielmo from Pentema,Guillielmus de Pentema,person,Membro della Gilda dei Tessitori di Panni di Lana
+Angelino Bertegale,Angelinus de Bertegali,person,Membro della Gilda dei Tessitori di Panni di Lana
+Benone Alsarino,Bertonus de Alsarino,person,Membro della Gilda dei Tessitori di Panni di Lana
+Giovanni Boiano,Johannes Boianus,person,Membro della Gilda dei Tessitori di Panni di Lana
+Simone Rossano,Simon de Rossano,person,Membro della Gilda dei Tessitori di Panni di Lana
+Antonio Garibaldo,Antonius de Garibaldo,person,Membro della Gilda dei Tessitori di Panni di Lana
+Battista Zenoglio,Baptista Zenogius,person,Console della Gilda dei Tessitori di Panni di Lana
+Giovanni Garaventa,Iohannes de Garaventa,person,Console della Gilda dei Tessitori di Panni di Lana
+Santo Stefano,Sancti Stephani,place,Monastero a Genova
+Martino Novara,Martinus de Novaria,person,Testimone, Calzolaio, Figlio di Serafino
+Luca Rovereto,Luca de Ruvereto,person,Testimone, Barbiere, Figlio di Andrea
+Andrea Viganego,Andrea de Viganego,person,Testimone, Mullino, Figlio di Luca
+Antonio Colombo,Antonius Colombo,person,Padre di Tommaso
+Leonardo Varazzino,Leonardus Varazzinus,person,Maestro di tessitura di seta
+Tommaso,Thomas,person,Figlio di Antonio Colombo, Apprendista
+Susanna Fontanarossa,Susanna Fontanarossa,person,Figlia di Giacomo Fontanarossa, Moglie di Domenico Colombo
+Giuliano Caprile,Iulianus Caprile,person,Acquirente di terreni e possedimenti
+Stampino Caprile,Stampinus Caprile,person,Acquirente di terreni e possedimenti
+Goagnino Fontanarossa,Goagninus Fontanarossa,person,Fratello di Susanna
+Pietro Fazio,Petrus Fazius,person,Notaio
+Gospels,--,physical object,Libro sacro
+scripture,--,physical object,Testo sacro
+bench,--,physical object,Banco del notaio
+document,--,physical object,Documento di vendita
+testimony,--,physical object,Testimonianza
+cloister,--,place,Chiostro del monastero
+portico,--,place,Portico del chiostro
+palace,--,place,Palazzo Serravalle
+hall,--,place,Sala del palazzo
+Wednesday,--,time,Giorno della settimana
+October,--,time,Mese
+Terce,--,time,Ora del giorno
+Monday,--,time,Giorno della settimana
+April,--,time,Mese
+Vespers,--,time,Ora del giorno
+1470,--,time,Anno
+1471,--,time,Anno
+third indiction,--,time,Periodo di tempo
+March,--,time,Mese
+Genoese reckoning,--,time,Sistema di datazione
+Serravalle Palace,Palatium Serravalle,place,Palazzo dove si rende giustizia
+Consuls of Pleas,Consules Placitorum,person,Consoli che rendono giustizia
+Silvestro Cornero,Silvester Cornero,person,Testimone, Mercante di spezie
+Visconte from Calvari,Visconte de Calvari,person,Testimone, Conciatore
+document 79,--,physical object,Documento citato
+document 77,--,physical object,Documento non trovato
+document 78,--,physical object,Documento citato
+fire of 1684,--,event,Incendio
+sale,--,event,Vendita
+renunciation,--,event,Rinuncia
+promise,--,event,Promessa
+apprenticeship agreement,--,event,Accordo di apprendistato
+will,--,event,Volontà
+consent,--,event,Consenso
+established,--,event,Stabilito
+ratified,--,event,Ratificato
+knowing,--,event,Conoscenza
+voluntarily,--,event,Volontariamente
+wool merchants,--,person,Mercanti di lana
+weavers,--,person,Tessitori
+consuls,--,person,Consoli
+notary,--,person,Notaio
+witnesses,--,person,Testimoni
+Guild of the Weavers of Woollen Cloth,Ars textorum pannorum lane,organization,Gilda dei Tessitori di Panni di Lana
+son,--,person,Figlio
+deceased,--,person,Defunto
+brother,--,person,Fratello
+wife,--,person,Moglie
+daughter,--,person,Figlia
+husband,--,person,Marito
+father,--,person,Padre
+mother,--,person,Madre
+consort,--,person,Consorte
+merchant,--,person,Mercante
+baker,--,person,Fornaio
+cobbler,--,person,Calzolaio
+barber,--,person,Barbiere
+miller,--,person,Mugnaio
+spice dealer,--,person,Mercante di spezie
+tanner,--,person,Conciatore
+weaver,--,person,Tessitore
+apprentice,--,person,Apprendista
+servant,--,person,Servitore
+craft,--,physical object,Mestiere
+cloth,--,physical object,Tessuto
+silk,--,physical object,Seta
+wool,--,physical object,Lana
+house,--,physical object,Casa
+lands,--,physical object,Terreni
+possessions,--,physical object,Possedimenti
+dowry,--,physical object,Dote
+dower,--,physical object,Dote
+lien,--,physical object,Pegno
+advantage,--,physical object,Vantaggio
+benefit,--,physical object,Beneficio
+penalty,--,physical object,Penalità
+payment,--,physical object,Pagamento
+wages,--,physical object,Salario
+regulation,--,physical object,Regolamento
+order,--,physical object,Ordine
+document of sale,--,physical object,Documento di vendita
+protest,--,physical object,Protesta
+Fossatello,Fossatello,place,Luogo specifico a Genoa
+Columbus,Columbo,person,Familia
+Milano,de Mollano,place, Milano, città
+Bertigale,de Bertigali,place, Montedinega, distretto
+Pentema,de Pentema,place, Regio, Valle
+Sigestro,de Sigestro,place, Sestri levante
+Fontanarossa,Fontanarossa,place,  Luogo specifico a Genoa
+Moconesi, Fontane mari,place, Valle della fontanarossa
+
+Queste informazioni possono essere salvate come file CSV per un'analisi successiva.

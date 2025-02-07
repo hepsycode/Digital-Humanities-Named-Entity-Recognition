@@ -1,0 +1,165 @@
+Analizzerò i due testi forniti per identificare le entità denominate (Named Entity Recognition, NER) e per estrapolare i luoghi intesi come borghi, navi, carceri, mercati e luoghi simili, nonché gli oggetti.
+
+### Testo in inglese:
+
+#### Named Entity Recognition (NER):
+1. **Persone**:
+   - Giovanni Colombo
+   - Luca
+   - Pasquale Piaggia
+   - Michele Piaggia
+   - Oberto
+   - Antonio Leverone
+   - Benedetto Colombo
+   - Tommaso Piaggia
+   - Benedetto Dezerga
+   - Pietro Rimassa
+   - Appolonia
+   - Margarita
+   - Benedetto Monteborgo
+   - Giacomo Assereto
+   - Battista Assereto
+   - Andrea Pietra
+   - Mariola
+   - Domenico Colombo
+   - Lanfranco
+   - Pelegro Tassorello
+   - Crescio
+   - Battista Tassorello
+   - Bianchinetta
+   - Pellegro Piaggia
+   - Giovanni Rocca
+   - Benedictina
+   - Mariola
+   - Angelino de Columbo
+   - Laurence Costa
+   - David of Staliano
+   - Antonio
+   - Nicholas Garumbero
+   - John Brignole
+   - John of Carrega
+   - Julian of Gazio
+   - Benedict of Chesta
+   - Antonio
+
+2. **Luoghi**:
+   - Genoa
+   - Portoria district
+   - Olivella
+   - Zoagli
+   - Moconesi
+   - Cicagna
+   - Porta Sant'Andrea
+   - Burgo Santo Stefano
+   - Borgo Santo Stefano
+   - Pelegro Tassorello
+   - Carrugia
+
+3. **Oggetti**:
+   - House
+   - Dowry
+   - Cheese
+   - Woolen cloth
+   - Lire di genovini
+   - Quintana
+   - Shop
+
+4. **Date**:
+   - 1462
+   - 1464
+   - Tuesday
+   - February 7
+   - Thursday
+   - July 5
+   - Eleventh indiction
+   - March 15
+   - Christmas
+   - January 4
+   - Terce
+
+5. **Altri luoghi (borghi, navi, carceri, mercati)**:
+   - Genoa (borgo)
+   - Borgo Santo Stefano (borgo)
+   - Porta Sant'Andrea (luogo simile)
+   - Portoria district (luogo simile)
+   - Shop of Pelegro Tassorello (mercato)
+
+### Testo in latino:
+
+#### Named Entity Recognition (NER):
+1. **Persone**:
+   - Angelini de Columbo
+   - Benedictina
+   - Mariola
+   - Johannis de Carrega
+   - Julian de Gazio
+   - Benedictus de Columbo
+   - Antonius
+   - Johannes de Chesta
+   - Antonii
+   - Petri Roymacie
+   - Benedictus de Dezerega
+   - Oberto Balbi
+   - Pellegro Piaggia
+   - Domenichina
+   - Giovanni Rocca
+   - Oberto
+   - Margarita
+   - Thoma de Plazia
+   - Pasquale
+   - Michael
+   - Iacobi
+   - Baptista de Axereto
+   - Petri
+   - Andrea de Petra
+   - Mariola
+   - Dominicus de Columbo
+   - Ieronimo de Vineis
+   - Iohannis
+   - Lanfranci
+   - Benedicto de Monteburgo
+   - Iacobo de Saona
+   - Guiliermi
+   - Nicolaus Garumberi
+   - Iohannis de Brignolis
+   - Laurence Costa
+
+2. **Luoghi**:
+   - Ianue (Genova)
+   - Porta Auree
+   - Borgo Sancti Stephani
+   - Carrugia
+   - Moconesi
+   - Olivele
+   - Zoalio
+   - Porta Auree
+
+3. **Oggetti**:
+   - Domum
+   - Dotem
+   - Pensione
+   - Libras
+   - Caseo
+   - Pannorum lane
+   - Domus
+   - Pensione
+   - Cartis
+   - Scripturis
+   - Testibus
+
+4. **Date**:
+   - 1460
+   - 1464
+   - January 4
+   - February 7
+   - March 15
+   - Quarta
+
+5. **Altri luoghi (borghi, navi, carceri, mercati)**:
+   - Ianue (Genova) (borgo)
+   - Borgo Sancti Stephani (borgo)
+   - Porta Auree (luogo simile)
+   - Carrugia (luogo simile)
+
+### Sintesi:
+Entrambi i testi contengono numerose entità denominate, inclusi nomi di persone, luoghi, oggetti e date. I luoghi intesi come borghi, navi, carceri, mercati e luoghi simili sono stati identificati e separati dagli altri tipi di luoghi. Gli oggetti menzionati nei testi sono stati anch'essi estratti e classificati.

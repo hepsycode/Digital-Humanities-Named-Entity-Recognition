@@ -1,0 +1,17 @@
+```csv
+Entity Name,Entity Name (Latin),Entity Category,Role
+Domenico Colombo,Dominicus de Columbo,person,weaver of woolen cloth, husband of Susanna
+Susanna Fontanarossa,Susanna,person,wife of Domenico Colombo, involved in property transaction
+Giuliano Caprile,Giulianus,person,buyer of lands from Domenico Colombo
+Stampino Caprile,Stampinus,person,buyer of lands from Domenico Colombo
+Goagnino Fontanarossa,Goagninus,person,protester of property transaction
+Pietro Fazio,Petrus,person,notary involved in property transaction
+Genoa,Ianua,place,location where legal documents were executed
+Fossatello,Fossatello,place,area in Genoa where the notary's bench was located
+Santo Stefano Monastery,Sancti Stephani,place,location where guild regulations were established
+Silk Cloth,Textorum pannorum lane,physical object,object of apprenticeship and guild regulation
+Woolen Cloth,Pannorum lane,physical object,object of guild regulation
+Holy Gospels,Sacra Evangelia,physical object,object on which oaths were sworn
+```
+
+This CSV output captures the requested named entities, their corresponding Latin names, categories, and roles in the context of the documents.

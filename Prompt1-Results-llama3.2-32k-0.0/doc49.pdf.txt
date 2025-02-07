@@ -1,0 +1,59 @@
+Sono pronto a eseguire la Named Entity Recognition (NER) sul testo fornito. Ecco le entità riconosciute:
+
+**Persone**
+
+1. Giovanni Colombo
+2. Pasquale Piaggia
+3. Michele Piaggia
+4. Oberto Piaggia
+5. Margarita Piaggia
+6. Benedetto Colombo
+7. Domenico Colombo
+8. Gerolamo delle Vigne
+9. Lanfranco (padre di Gerolamo)
+10. Pietro Rimassa
+11. Tommaso Piaggia
+12. Benedetto Dezerga
+13. Mariole (figlia di Oberto e moglie di Pasquale)
+14. Pellegro Piaggia (marito di Bianchinetta)
+15. Giovanni Rocca (nonno di Domenico)
+16. Angelino de Columbo (nonno di Giovanni)
+17. Iuliani de Gazio de Usio (avolo di Giovanni)
+18. Cristoforo Sisto (notario)
+19. Nicolò Garumberi (notario)
+20. Giovanni Brignole (notario)
+
+**Luoghi**
+
+1. Moconesi
+2. Zoagli
+3. Genoa
+4. Olivella
+5. Portoria
+6. Carrugia
+7. Assereto
+8. Pietra
+9. Cicagna
+10. Borgo Santo Stefano
+
+**Oggetti**
+
+1. Casa (varie)
+2. Nave (varie)
+3. Carceri (varie)
+4. Mercati (varie)
+
+**Documenti**
+
+1. Instrumento di pagamento e conferma
+2. Documento di morte di Luca Colombo
+3. Documento di nascita di Giovanni Colombo
+4. Documento di matrimonio tra Pasquale Piaggia e Michele Piaggia
+5. Documento di successione di Oberto Piaggia
+
+**Altri**
+
+1. Senatusconsultum Velleium (un documento legale)
+2. Legi Iulie (una legge romana)
+
+Spero che questo elenco sia completo e accurato. Se hai bisogno di ulteriore aiuto, non esitare a chiedere!

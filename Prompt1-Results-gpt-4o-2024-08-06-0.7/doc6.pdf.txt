@@ -1,0 +1,79 @@
+**Named Entity Recognition (NER) e estrazione di luoghi e oggetti dai testi**
+
+---
+
+### Testo in inglese
+
+**Persone:**
+- Brothers Guglielmo di Triclino
+- Antonio Ratto di Monterosato
+- Simone di Mongiardino
+- Pietro Ghirardetto
+- Antonio Musante (detto Fogliazzo)
+- Lodisio di Pavia
+- Antonino, figlio di Colombo di Moconosi
+- Domenico di Terrarossa
+- Benedetto di Moconesi
+- Antonio Bagnara
+- Stefano Besaccia
+- Deserino Garro
+
+**Luoghi:**
+- Genoa
+- Borgo Santo Stefano
+- Quinto (villaggio)
+- Podestà di Bisagno
+- Le Fasciole (località)
+
+**Oggetti:**
+- Lire e soldi di genovini
+- Strumento pubblico (documento legale)
+- Tratto di terra (parte in castagneto e boschivo, parte in prato)
+
+---
+
+### Testo in latino
+
+**Persone:**
+- Mattheus de Flisco
+- Georgius (Cardinale)
+- Baptista de Calisano
+- Frater Jeronimus de Pendola
+- Frater Gregorius de Verdura
+- Frater Michael Garronus
+- Frater Baptista de Costaguta
+- Dominighino Columbo
+- Petrus de Guiratdeto
+- Antonio de Muzante (detto Foliacio)
+- Antonino de Columbo
+- Lodixio de Papia
+- Dominicus de Terra Rubea
+- Benedictus de Moconexi
+- Antonius de Bagneria
+- Stephanus Bezacie
+- Dexerinus Garri
+- Martinus de Facio
+- Bartholomeus de Facio
+- Guillielmus de Fontanarubea
+
+**Luoghi:**
+- Ianua (Genova)
+- Palatium Ducalis
+- Monasterium Sancti Stephani
+- Carubeum de Olivella
+- Villa Quinti
+- Potestatia Bisamnis
+- Loco dicto 'le Fassiole'
+- Plana Bisamnis
+- Quarterio Sancti Fructuosi
+
+**Oggetti:**
+- Solum (terreno)
+- Aedificium (edificio)
+- Soldi ianuinorum
+- Publici instrumenti (documento legale)
+- Pecia terre (tratto di terra, in parte castaneate e boschive, in parte prative)
+
+---
+
+Questa analisi ha identificato e classificato persone, luoghi e oggetti menzionati nei testi in inglese e latino.

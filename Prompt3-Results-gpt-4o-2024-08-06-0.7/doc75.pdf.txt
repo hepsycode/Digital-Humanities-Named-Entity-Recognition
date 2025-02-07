@@ -1,0 +1,50 @@
+Named Entity Recognition:
+
+**Persone:**
+- Domenico
+- Christopher
+- Nicola Raggio
+- Raffaele of Bisagno
+- Agosto from Pometò
+- Giovanni Longo del Carmine
+- Battista Zenoglio
+- Giovanni Garaventa
+- Leone Cigala
+- Guglielmo from Pentema
+- Angelino Bertegale
+- Benone Alsarino
+- Giovanni Boiano
+- Simone Rossano
+- Antonio Garibaldo
+- Tommaso
+- Leonardo Varazzino
+- Susanna
+- Giacomo Fontanarossa
+- Domenico Colombo
+- Giuliano Caprile
+- Stampino Caprile
+- Goagnino Fontanarossa
+- Pietro Fazio
+- Martino Novara
+- Luca Rovereto
+- Andrea Viganego
+
+**Luoghi:**
+- Genoa
+- Fossatello
+- Monastery of Santo Stefano
+- Portico of the cloister
+
+**Oggetti:**
+- God's Holy Gospels
+- Scripture
+- Woolen cloth
+- Silk cloth
+- Lands and possessions
+- House
+- Dowry
+
+Breve regesto:
+Gli artigiani del panno di lana a Genova giurano di attenersi alle regole sui pagamenti stabilite dai consoli e dai rappresentanti della corporazione, con sanzioni per violazioni.
+
+1470 ottobre 31

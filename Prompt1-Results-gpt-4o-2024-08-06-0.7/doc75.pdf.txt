@@ -1,0 +1,217 @@
+Ecco l'analisi dei due testi con il riconoscimento delle entità nominate e l'estrazione dei luoghi e degli oggetti:
+
+### Named Entity Recognition
+
+#### Persone:
+1. Domenico
+2. Christopher (Cristoforo)
+3. Nicola Raggio
+4. Raffaele di Bisagno
+5. Agosto da Pometò
+6. Giovanni Longo del Carmine
+7. Battista Zenoglio
+8. Giovanni Garaventa
+9. Leone Cigala
+10. Guglielmo da Pentema
+11. Angelino Bertegale
+12. Benone Alsarino
+13. Giovanni Boiano
+14. Simone Rossano
+15. Antonio Garibaldo
+16. Cristoforo Rossano
+17. Giovanni da Milano
+18. Giovanni Vencellino
+19. Bertola Chighizola
+20. Nicola Romano
+21. Giacomo da Favale
+22. Simone Correggia
+23. Luca Torriglia
+24. Giovanni Moconesi
+25. Benedetto Viganego
+26. Manuele Romano
+27. Benedetto da Monteborgo
+28. Giovanni da Mondovì
+29. Simone Sperone
+30. Giovanni Pietro Garibaldi
+31. Cristoforo Fregaga
+32. Avanzino Avanzini
+33. Crescio Moconesi
+34. Nicolò Teglia
+35. Agostino Bonaparte
+36. Domenico Garibaldo
+37. Benedetto da Nervi
+38. Benone Zenoglio
+39. Leonardo Graffigna
+40. Gerolamo Crovari
+41. Giovanni di Vallesturla
+42. Giacomo Capellaccio
+43. Luchino Recroso
+44. Bartolomeo Capellana
+45. Lazzaro da Leivi
+46. Pietro Vignale
+47. Andrea da Pentema
+48. Giovanni Reboiano
+49. Cristoforo di Fontanabuona
+50. Battaglino di Fontanabuona
+51. Marchino Devoto
+52. Antonio Poserbo
+53. Nicolosino Rissetto
+54. Stefano Rivegno
+55. Giovanni Borzone
+56. Benedetto di Vallesturla
+57. Bartolomeo Rondanina
+58. Benedetto Romano
+59. Giovanni Valasina
+60. Nicolò Vaccarezza
+61. Bertino Lamagna
+62. Bartolomeo Pozzo
+63. Zaccaria da Piacenza
+64. Giovanni Torriglia
+65. Dominichino Castagnino
+66. Simone Trebino
+67. Stefanino da Ortoana
+68. Battista Rebecco
+69. Cogorino Garibaldo
+70. Perrino Mambrilla
+71. Lazarino Rissetto
+72. Battista Senno
+73. Giovanni da Pentema
+74. Giacomo Castruccio
+75. Antonio da Sestri Levante
+76. Cristoforo Bertonasco
+77. Battista de Paolo
+78. Michele Cella
+79. Bartolomeo Taverna
+80. Simone Colonna
+81. Antonio Chichero
+82. Antonio Rapallo
+83. Battista Fontanarossa
+84. Bartolomeo Teglia
+85. Antonio Genoglio
+86. Simone da Trisobbio
+87. Giuliano Molinari
+88. Michele Cigala
+89. Pasqualino da Paggi
+90. Battista Panesi
+91. Giorgio Viganego
+92. Battista da Prato
+93. Simone Carozzo
+94. Giacomo Teutonico
+95. Benedetto da Verzi
+96. Giovanni Costa
+97. Giovanni da Frinti
+98. Antonio di Vigomorasso
+99. Benedetto Rovegno
+100. Antonio Terrile
+101. Nicolò Torriglia
+102. Nicolò Caneva
+103. Domenico Colombo
+104. Antonio Bottino
+105. Pasquale Bogliolo
+106. Pietro Botto
+107. Antonio Brilla
+108. Pellegro Romano
+109. Giovanni Lavello
+110. Pasquale Monleone
+111. Giacomino Garibaldo
+112. Benedetto Celesia
+113. Tommaso Picaiano
+114. Giacomo Desconia
+115. Benedetto Colombo
+116. Battista Razeto
+117. Giovanni Montoggio
+118. Giacomo Castagnelli
+119. Lazzarino di Vallesturla
+120. Giovanni Bertigale
+121. Paolo Moconesi
+122. Giovanni Viganego
+123. Paolo Montedonico
+124. Bartolomeo di Rodi
+125. Giuliano di Vallesturla
+126. Giovanni Molinari
+127. Abramo Moconesi
+128. Benedetto Figone
+129. Pietrino Colla
+130. Leonardo Boiano
+131. Bartolomeo Riceto
+132. Lorenzo da Framura
+133. Cristoforo da Pentema
+134. Agostino Decimo
+135. Ottorino Monsia
+136. Antonio Cabona
+137. Giovanni Schinchino
+138. Antonio Varese
+139. Bordino Zenoglio
+140. Abramo Caorsi
+141. Antonio di Apparizione
+142. Giovanni Polcevera
+143. Antonio Recroso
+144. Giovanni Fontanarossa
+145. Quirico Cavassa
+146. Francesco Levaggi
+147. Bertone Casella
+148. Pasquale Terrile
+149. Matteo Cigala
+150. Domenico Cappelaccio
+151. Manfredo Cigala
+152. Lanfranco Balbo
+153. Guglielmo Conforto
+154. Giacomo Cafferata
+155. Bartolomeo da Tortona
+156. Stefanini da Favale
+157. Valentino Frassineto
+158. Giovanni Romano da Uscio
+159. Nicolò Carrosio
+160. Ambrogio Fontanarossa
+161. Giorgio da Pinerolo
+162. Remagino Canale
+163. Domenico Nascio
+164. Ambrogio Repetto di Vallesturla
+165. Giovanni Garibaldo
+166. Andrea Casareto
+167. Luchetto Nascio
+168. Antonio Nascio
+169. Raffaelino Fontanarossa
+170. Delio di Vallesturla
+171. Battistino Nespolo
+172. Bernardo Queirolo
+173. Giovanni da Rossiglione
+174. Bartolomeo Gazzo
+175. Taddeo Garaventa
+176. Antonio da Tagliolo
+177. Gerolamo di Via di Sestri Levante
+178. Nicolò Bertigale
+179. Nicolò Boiano
+180. Antonio Montedonico
+181. Luchetto Sauli
+182. Oliviero Carbone
+183. Bartolomeo Merlino di Paggi
+184. Bartolomeo Sauli
+185. Nicolosino Anero
+186. Giacomo Poggio
+187. Nicolosino Montanaro
+188. Simone Cuneo
+189. Bartolomeo Bracelli
+190. Giulietto della Valle di Lavagna
+191. Giorgio da Calvari
+192. Donato Proino
+193. Antonio Caffarena
+194. Gerolamo Piaggia
+195. Nicolò Roccatagliata
+
+#### Luoghi (borghi, navi, carceri, mercati, ecc.):
+1. Genoa (Genova)
+2. Fossatello
+3. Monastero di Santo Stefano
+4. Palazzo di Serravalle
+5. Quinto
+
+#### Oggetti:
+1. Vangeli Sacri di Dio (God's Holy Gospels)
+2. Scritture (Scripture)
+3. Documento di vendita
+4. Regolamento della gilda
+5. Panetto di lana
+6. Telaio di seta
+
+L'analisi copre le principali entità nominate e i luoghi menzionati nei testi, insieme agli oggetti significativi nel contesto storico e culturale.

@@ -1,0 +1,73 @@
+### Analisi del Testo in Inglese
+
+#### Named Entity Recognition (NER)
+
+**Persone:**
+1. Giovanni Colombo
+2. Pasquale Piaggia
+3. Michele Piaggia
+4. Oberto Piaggia
+5. Cristoforo Sisto
+6. Antonio Leverone
+7. Benedetto Colombo
+8. Tommaso Piaggia
+9. Benedetto Dezerga
+10. Pietro Rimassa
+11. Appolonia
+12. Gerolamo delle Vigne
+13. Domenico Colombo
+14. Lanfranco
+15. Bianchinetta
+16. Pellegro Piaggia
+17. Giovanni Rocca
+18. Mariola
+19. Benedictina
+20. Angelini de Columbo
+21. Iohannis de Carrega
+22. Benedictus de Columbo
+23. Pasquali et Michaeli de Plazia
+24. Benedicto de Dezerega
+25. Antonium de Leverono
+26. Oberto de Plazia
+27. Margarita
+28. Iacobus et Baptista de Axereto
+29. Andrea de Petra
+30. Petrus Roymacia
+31. Dominicus de Columbo
+32. Ieronimo de Vineis
+33. Iuliani de Gazio de Usio
+34. Benedicto de Monteburgo
+35. Laurentius de Costa
+36. David de Staliano
+37. Crescio
+38. Moconesi
+39. Battista Tassorello
+40. Pelegro Tassorello
+
+**Luoghi:**
+1. Moconesi
+2. Zoagli
+3. Genoa
+4. Olivella
+5. Portoria
+6. Savona
+7. Cicagna
+8. Moconesi
+9. Porta Sant'Andrea
+
+**Luoghi specifici (borghi, mercati, ecc.):**
+1. Borgo Santo Stefano
+2. Porta Sant'Andrea
+3. Contracta Olivele
+4. Contracta porte Auree
+5. Carrugia
+
+**Oggetti:**
+1. House
+2. Dowry
+3. Cheese
+4. Shop
+
+#### Breve Regesto
+
+Giovanni Colombo riconosce di aver ricevuto 25 lire da Michele Piaggia come parte di un debito di 50 lire. Benedetto Colombo proroga il termine di pagamento di 127 lire ai fratelli Pasquale e Michele Piaggia. Mariola rinuncia ai suoi diritti su una casa in Portoria. Domenico Colombo riconosce un debito di 15 lire a Gerolamo delle Vigne per del formaggio. La data del documento è 1464 febbraio 7.

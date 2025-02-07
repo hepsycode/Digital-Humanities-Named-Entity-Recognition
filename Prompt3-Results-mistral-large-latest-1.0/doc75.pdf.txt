@@ -1,0 +1,472 @@
+### Named Entity Recognition e Estrapolazione degli Oggetti
+
+#### Entità Nominate (Persone, Luoghi, Oggetti)
+
+**Persone:**
+1. Domenico
+2. Christopher (Cristoforo)
+3. Nicola Raggio
+4. Raffaele of Bisagno
+5. Agosto from Pometò
+6. Giovanni Longo del Carmine
+7. Battista Zenoglio
+8. Giovanni Garaventa
+9. Leone Cigala
+10. Guglielmo from Pentema
+11. Angelino Bertegale
+12. Benone Alsarino
+13. Giovanni Boiano
+14. Simone Rossano
+15. Antonio Garibaldo
+16. Cristoforo Rossano
+17. Giovanni from Milano
+18. Giovanni Vencellino
+19. Bertola Chighizola
+20. Nicola Romano
+21. Giacomo from Favale
+22. Simone Correggia
+23. Luca Torriglia
+24. Giovanni Moconesi
+25. Benedetto Viganego
+26. Manuele Romano
+27. Benedetto from Monteborgo
+28. Giovanni from Mondovì
+29. Simone Sperone
+30. Giovanni Pietro Garibaldo
+31. Cristoforo Fregaga
+32. Avanzino Avanzini
+33. Crescio Moconesi
+34. Nicolò Teglia
+35. Agostino Bonaparte
+36. Domenico Garibaldo
+37. Benedetto from Nervi
+38. Benone Zenoglio
+39. Leonardo Graffigna
+40. Gerolamo Crovari
+41. Giov:anni of Vallesturla
+42. Giacomo Capellaccio
+43. Luchino Recroso
+44. Bartolomeo Capellana
+45. Lazzaro from Leivi
+46. Pietro Vignale
+47. Andrea from Pentema
+48. Giovanni Reboiano
+49. Cristoforo of Fontanabuona
+50. Battaglino of Foiyanabuona
+51. Marchino Devoto
+52. Antonio Poserbo
+53. Nicolosino Rissetto
+54. Stefano Rivegno
+55. Giovanni Borzone
+56. Benedetto of Vallesturla
+57. Bartolomeo Rondanina
+58. Benedetto Romano
+59. Giovanni Valasina
+60. Nicolò Vaccarezza
+61. Bertino Lamagna
+62. Bartolomeo Pozzo
+63. Zaccaria from Piacenza
+64. Giovanni Torriglia
+65. Domenichino Castagnino
+66. Simone Trebino
+67. Stefanino from Ortoana
+68. Battista Rebecco
+69. Cogorino Garibaldo
+70. Perrino Mambrilla
+71. Lazarino Rissetto
+72. Battista Senno
+73. Giovanni from Pentema
+74. Giacomo Castruccio
+75. Antonio from Sestri Levante
+76. Cristoforo Bertonasco
+77. Battista de Paolo
+78. Michele Cella
+79. Bartolomeo Taverna
+80. Simone Colonna
+81. Antonio Chichero
+82. Antonio Rapallo
+83. Battista Fontanarossa
+84. Bartolomeo Teglia
+85. Antonio Genoglio
+86. Simone from Trisobbio
+87. Giuliano Molinari
+88. Michele Cigala
+89. Pasqualino from Paggi
+90. Battista Panesi
+91. Giorgio Viganego
+92. Battista from Prato
+93. Simone Carozzo
+94. Giacomo Teutonico
+95. Benedetto from Verzi
+96. Giovanni Costa
+97. Giovanni from Frinti
+98. Antonio di Vigomorasso
+99. Benedetto Rovegno
+100. Antonio Terrile
+101. Nicolò Torriglia
+102. Nicolò Caneva
+103. Domenico Colombo
+104. Antonio Bottino
+105. Pasquale Bogliolo
+106. Pietro Botto
+107. Antonio Brilla
+108. Pellegro Romano
+109. Giovanni Lavello
+110. Pasquale Monleone
+111. Giacomino Garibaldo
+112. Benedetto Celesia
+113. Tommaso Picaiano
+114. Giacomo Desconia
+115. Benedetto Colombo
+116. Battista Razeto
+117. Giovanni Montoggio
+118. Giacomo Castagnelli
+119. Lazzarino di Vallesturla
+120. Giovanni Bertigale
+121. Paolo Moconesi
+122. Giovanni Viganego
+123. Paolo Montedonico
+124. Bartolomeo di Rodi
+125. Giuliano di Vallesturla
+126. Giovanni Molinari
+127. Abramo Moconesi
+128. Benedetto Figone
+129. Pietrino Colla
+130. Leonardus Boiano
+131. Bartolomeo Riceto
+132. Lorenzo from Framura
+133. Christophorus from Pentema
+134. Agostino Decimo
+135. Ottorino Monsia
+136. Antonio Cabona
+137. Giovanni Schinchino
+138. Antonio Varese
+139. Bordino Zenoglio
+140. Abramo Caorsi
+141. Antonio di Apparizione
+142. Giovanni Polcevera
+143. Antonio Recroso
+144. Giovanni Fontanarossa
+145. Quirico Cavassa
+146. Francesco Levaggi
+147. Berto ne Casella
+148. Pasquale Terrile
+149. Giovanni Garibaldo
+150. Matteo Cigala
+151. Domenico Cappelaccio
+152. Manfredo Cigala
+153. Lanfranco Balbo
+154. Guglielmo Conforto
+155. Giacomo Cafferata
+156. Bartolomeo from Tortona
+157. Stefanini from Favale
+158. Valentino Frassineto
+159. Giovanni Romano from Uscio
+160. Nicolò Carrosio
+161. Ambrogio Fontanarossa
+162. Giorgio from Pinerolo
+163. Remagino Canale
+164. Domenico Nascio
+165. Ambrogio Repetto di Vallesturla
+166. Giovanni Garibaldo
+167. Andrea Casareto
+168. Luchetto Nascio
+169. Antonio Nascio
+170. Raffaelino Fontanarossa
+171. Delio di Vallesturla
+172. Battistino Nespolo
+173. Bernardo Queirolo
+174. Giovanni from Rossiglione
+175. Bartolomeo Gazzo
+176. Taddeo Garaventa
+177. Antonio from Tagliolo
+178. Gerolamo di Via di Sestri Levante
+179. Nicolò Bertigale
+180. Nicolò Boiano
+181. Antonio Montedonico
+182. Luchetto Sauli
+183. Oliviero Carbone
+184. Bartolomeo Merlino di Paggi
+185. Bartolomeo Sauli
+186. Nicolosino Anero
+187. Giacomo Poggio
+188. Nicolosino Montanaro
+189. Simone Cuneo
+190. Bartolomeo Bracelli
+191. Giulietto della Valle di Lavagna
+192. Giorgio from Calvari
+193. Donato Proino
+194. Antonio Caffarena
+195. Gerolamo Piaggia
+196. Nicolò Roccatagliata
+197. Raffael de Bisanne
+198. Augustinus de Po meta
+199. Baptista Zenogius
+200. Iohannes de Garaventa
+201. Leo de Cigalis
+202. Guiliermus de Pentema
+203. Angelinus de Bertegali
+204. Bertonus de Alsarino
+205. Iohannes Boianus
+206. Simon de Rossano
+207. Antonius de Garibaldo
+208. ChristOfforus Rossanus
+209. Iohannes de Mediolano
+210. Iohannes de Vencelino
+211. Bertolla Chigixola
+212. Nicola de Romano
+213. Iacobus de Favale
+214. Simon de Coregia
+215. Lucas de Turrilia
+216. Iohannes de Moconexi
+217. Benedictus de Viganego
+218. Manuel de Romano
+219. Benedictus de Monteburgo
+220. Iohannes de Monteregali
+221. Simon Speronus
+222. Iohannes Petrus de Garibaldo
+223. Christophorus de Fregariis
+224. Avancinus de Avancino
+225. Cressius de Moconexi
+226. Nicolaus de Telia
+227. Augustinus de Bonaparte
+228. Dominicus de Garibaldo
+229. Benedictus de Nervio
+230. Bertonus Zenogius
+231. Leonardus Graffigna
+232. Ieroni mus de Crovaria
+233. Iohannes de Vadesturla
+234. Iacobus Capellatius
+235. Luchinus de Recrosio
+236. Bartholomeus Capellana
+237. Lazarius de Leivi
+238. Petrus de Vignali
+239. Andreas de Pentema
+240. Iohannes Reboianus
+241. Christophorus de Fontanabona
+242. Bataginus de Fontanabona
+243. Marchinus Devotus
+244. Antonius Poserbus
+245. Nicolosinus Ricetus
+246. Stephanus de Rivegno
+247. Iohannes de Borzono
+248. Benedictus de Vadesturla
+249. Bartholomeus Rondanina
+250. Benedictus de Romano
+251. Iohannes Valasina
+252. Nicolaus Vacarecia
+253. Bertinus de Lamagnà
+254. Bartholomeus Putheus
+255. Zacaria de Placentia
+256. Iohannes de Turrilia
+257. Dominichinus de Castagnino
+258. Simon de Trebino
+259. Stephaninus de Ortoana
+260. Baptista Rebechus
+261. Cogorinus de Garibaldo
+262. Perrinus Mambrilla
+263. Lazarinus de Ricetis
+264. Baptista Senus
+265. Iohannes de Pentema
+266. Iacobus Crastucius
+267. Antonius de Sigestro
+268. Christophorus de Bertonascho
+269. Baptista de Paulo
+270. Michael de Cella
+271. Bartholomeus Taberna
+272. Simon de Columna
+273. Antonius de Ihicherio
+274. Antonius de Rappalo
+275. Baptista de Fontanarubea
+276. Bartholomeus de Telia
+277. Antonius Fenogius
+278. Simon de Treseoxio
+279. Iulianus Molinarius
+280. Michael de Cigallis
+281. Pasqualinus de Pagio
+282. Baptista de Panexio
+283. Georgius de Viganego
+284. Baptista de Prato
+285. Simon Carotius
+286. Iacobus Teutonicus
+287. Beriedictus de Verzio
+288. Iohannes de Costa
+289. Iohannes de Fronti
+290. Antonius de Vigomortio
+291. Benedictus de Rovegnio
+292. Antonius de Terrili
+293. Nicolaus de Turrilia
+294. Nicolaus de Canneva
+295. Dominicus de Columbo
+296. Antonius de Bottino
+297. Pasqua! Boiollus
+298. Petrus Bottus
+299. Antonius Brilla
+300. Peregrus de Romano
+301. Iohannes Lavellus
+302. Pasqua! de Monleono
+303. Iacobinus de Garibaldo
+304. Benedictus Cerexia
+305. Thomas Pichaianus
+306. Iacobus Desconia
+307. Benedictus de Columbo
+308. Baptista de Rezeto
+309. Iohannes de Montobio
+310. Iacobus de Castagnello
+311. Lazarinus de Vadesturlla
+312. Johannes de Bertigali
+313. Paulus de Moconexi
+314. Iohannes de Viganego
+315. Paulus de Montedonego
+316. Bartholomeus de Rodo
+317. Iulianus de Vadesturla
+318. Iohannes Molinarius
+319. Abram de Moconexi
+320. Benedictus Figonus
+321. Petrinus de Colla
+322. Leonardus Boianus
+323. Bartholomeus Ricetus
+324. Laurentius de Framura
+325. Christophorus de Pentema
+326. Augustinus Decimus
+327. Octorinus de Monssia
+328. Antonius de Cabana
+329. Iohannes Schinchinus
+330. Antonius de Varixio
+331. Bordimus Zenogius
+332. Abram de Caursio
+333. Antonius de Parissono
+334. Iohannes de Pulciffera
+335. Antonius de Recrosio
+336. Iohannes de Fontanarubea
+337. Quilicus Cavacia
+338. Franciscus de Levagio
+339. Christophorus de Pentema
+340. Bertonus de Cazellis
+341. Pasqua! de Terrili
+342. Iohannes de Garibaldo
+343. Mateus de Cigalis
+344. Dominicus Capellatius
+345. Manfredus de Cigallis
+346. Lanfranchus Balbus
+347. Guillelmus de Conforto
+348. Iacobus de Cafferata
+349. Bartholomeus de Garibaldo
+350. Nicolaus de Avegno
+351. Iohannes de Fontanabona
+352. Dominicus de Dartona
+353. Stephaninus de Favali
+354. Valentinus de Frassineto
+355. Iohannes de Romano de Ussio
+356. Nicolaus de Carocio
+357. Ambrosius de Fontanarubea
+358. Georgius de Pinarolio
+359. Remaginus de Canali
+360. Dominicus de Nasio
+361. Ambrosius Repetus de Vadesturla
+362. Iohannes de Garibaldo
+363. Andreas de Cazareto
+364. Luchetus de Nasio
+365. Antonius de Nasio
+366. Raffelinus de Fontanarubea
+367. Deli de Vadesturla
+368. Batestinus de Nespulo
+369. Bernardus Coyrolus
+370. Iohannes de Rosiliono
+371. Bartholomeus de Gazio
+372. Tadeus de Garaventa
+373. Antonius de Taiolo
+374. Ieronimus de Via de Sigestro
+375. Nicolaus de Bertegali
+376. Nicolaus Boianus
+377. Antonius de Montedonego
+378. Luchetus de Saulo
+379. Oliverius Carbonus
+380. Bartholomeus de Merlino de Pagi
+381. Bartholomeus de Sauli
+382. Nicolosinus de Anerio
+383. Iacobus de Podio
+384. Nicolosinus de Montanario
+385. Simon de Cunio
+386. Bartholomeus de Bracellis
+387. Giulietus de Valle Lavania
+388. Georgius de Carvari
+389. Donatus Proynus
+390. Antonius Caffarena
+391. Ieronimus de Plazia
+392. Nicolaus de Rochataliata
+393. Antonio
+394. Cristoforo
+395. No mi
+396. Leonardo Varazzino
+397. Tommaso
+398. Martino Novaria
+399. Luca Rovereto
+400. Andrea Viganego
+
+**Luoghi:**
+1. Genoa
+2. Fossatello
+3. Bisagno
+4. Pometò
+5. Carmine
+6. Pentema
+6. Milano
+7. Favale
+8. Leivi
+9. Mondovì
+10. Sestri Levante
+11. Fontanabuona
+12. Nervi
+13. Paggi
+14. Prato
+15. Trisobbio
+16. Frinti
+17. Vigomorasso
+18. Rovegno
+19. Caneva
+20. Tortona
+21. Vallesturla
+22. Serravalle Palace
+23. Calvari
+24. Pinerolo
+25. Sigestro
+26. Montedonico
+27. Paggi
+28. Rossiglione
+29. Uscio
+30. Framura
+31. Tagliolo
+32. Queirolo
+33. Favale
+34. Lavagna
+35. Calvari
+36. Framura
+37. Ortoana
+38. Vallesturla
+39. Fossatello
+40. Leonardo Varazzino
+
+**Oggetti:**
+1. God's Holy Gospels
+2. scripture
+3. bench
+4. woolen cloth
+5. silk cloth
+6. house
+7. lands
+8. possessions
+9. document
+10. scripture
+11. textile
+12. shoe
+13. scripture
+14. bench
+15. scripture
+16. bench
+
+**Breve Regesto del Documento:**
+Columbus and his family swore an oath in Genoa in 1470. The weavers' guild established regulations for payments from wool merchants. Antonio Colombo apprenticed his son to Leonardo Varazzino for silk weaving training. Susanna, wife of Domenico Colombo, renounced her rights to certain lands and possessions due to her dowry and dower rights.
+
+**Data:**
+1470 Octobero 31

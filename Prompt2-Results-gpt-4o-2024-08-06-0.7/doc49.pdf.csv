@@ -1,0 +1,28 @@
+```csv
+name,latin_name,category,role
+Giovanni Colombo,Iohannes de Columbo,person,Debtor, son of the deceased Luca from Moconesi
+Pasquale Piaggia,Pasqualis de Plazia,person,Creditor, brother of Michele, son of Oberto from Zoagli, artisan and inhabitant of Genoa
+Michele Piaggia,Michaelis de Plazia,person,Creditor, brother of Pasquale, son of Oberto from Zoagli, artisan and inhabitant of Genoa
+Oberto Piaggia,Oberti,person,Ancestor, father of Pasquale and Michele
+Benedetto Colombo,Benedictus de Columbo,person,Creditor, brother of Giovanni, weaver of woolen cloth
+Antonio Leverone,Antonio de Leverono,person,Proxy, acted as proxy for Giovanni Colombo
+Cristoforo Sisto,Cristofori Sixti,person,Notary, public document writer
+Pietro Rimassa,Petrus Roymacia,person,Ancestor, father of Appolonia, baker
+Appolonia,Apolonie,person,Deceased, daughter of Pietro Rimassa, wife of deceased Tommaso
+Benedetto Dezerga,Benedictus de Dezerega,person,First Buyer, first buyer of the house from Tommaso Piaggia
+Domenico Colombo,Dominicus de Columbo,person,Debtor, cheesemonger, son of the deceased Giovanni
+Gerolamo delle Vigne,Ieronimo de Vineis,person,Creditor, cheesemonger, son of the deceased Lanfranco
+Mariola,Mariola,person,Heir, daughter of Pietro Rimassa, wife of Pasquale
+Tommaso Piaggia,Thome,person,Deceased, brother of Pasquale and Michele, former owner of the house
+Margarita,Margaritam,person,Deceased, mother of Pasquale and Michele, wife of Oberto
+Pietro,Petrus,person,Ancestor, father of Mariola
+Borgo Santo Stefano,burgo Sancti Stephani,place,Location of event, in the district of Portoria, Genoa
+Portoria,Porta Aurea,place,Encumbered Property, district in Genoa where the house is located
+Olivella,Olivelle,place,Property Sale, district in Genoa where the house was sold
+Genoa,Ianue,place,City, location of all events
+carrugia,carrubeus,place,Boundary, front boundary of the house in Portoria
+quintana,quintana,place,Boundary, behind boundary of the house in Portoria
+lire di genovini,libras ianuinorum,physical object,Currency, used for transactions and debts
+house,domus,physical object,Encumbered Property, sold and mortgaged property in Genoa
+dowry,dotis,physical object,Legal Claim, provided by Pietro Rimassa for Appolonia
+```

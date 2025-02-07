@@ -1,0 +1,33 @@
+```csv
+name,latin_name,category,role
+Giano Campofregoso,lanus de Campofregoso,person,Doge of Genoa
+Domenico Colombo,Dominicus de Columbo,person,Keeper of the Olivella gate and tower, father of Antoninus and Domenighinus
+Antoninus Colombo,Antoninus de Columbo,person,Son of Giovanni Colombo, brother of Domenighinus
+Domenighinus Colombo,Domenighinus de Columbo,person,Son of Giovanni Colombo, brother of Antoninus
+Giovanni Colombo,Iohannis de Columbo,person,Father of Antoninus and Domenighinus
+Pasquale Frittalo,Pasquali de Fritalo,person,Inhabitant of Quinto, father of Giovanni Frittalo
+Giovanni Frittalo,Iohannis de Fritalo,person,Son of Pasquale Frittalo, husband of Battistina
+Battistina,Batestine,person,Sister of Antoninus and Domenighinus, wife of Giovanni Frittalo
+Bartolomeo,Bartholomeo de Terrarubea,person,Witness
+Bartolomeo Riccio,Bartholomeo Ricio,person,Notary and witness
+Giorgio Clavarino,Georgio Clavarino Iohannis,person,Witness
+Matteo Ferrari,Mateus Ferrarius,person,Witness
+Antonio Bassano,Antonius Baxanus,person,Witness
+Cesare from Sarzana,Cezarus de Sarzana,person,Witness
+Taliano Castronovo,Talianus de Castronovo,person,Witness
+Francesco Falcinello,Franciscus de Facinelo,person,Witness
+Franceschino Castronovo,Franceschinus de Castronovo,person,Witness
+Isolino Compiano,Isolinus de Compiano,person,Witness
+Guglielmo Ungaro,Gullielmus Ungarus,person,Witness
+Lorenzo from Pietrasanta,Laurentius de/etrasancta,person,Witness
+Casamatta,Cazamata,person,Witness
+Antonio della Rocchetta,Antonius de Rocheta,person,Witness
+Genoa,lanue,place,City where the document was executed
+Olivella gate and tower,turris et porte Olivele,place,Guard post assigned to Domenico Colombo
+Quinto,ville Quinti,place,Village where Antoninus and Domenighinus Colombo live
+Genoa,lanue,place,City where the document was executed
+Angelo di Negro's house,domo Angeli de Nigro,place,Location where the document was executed
+Olivella gate and tower,turris et porte Olivele,place,Guard post assigned to Domenico Colombo
+Sixty lire di genovini,libras sexaginta lanue,physical_object,Debt to be paid by Antoninus and Domenighinus Colombo
+Six silver spoons,coclearia sex argenti,physical_object,Part of the dowry for Battistina
+```

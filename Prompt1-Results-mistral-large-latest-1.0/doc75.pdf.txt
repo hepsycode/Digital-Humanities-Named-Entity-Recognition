@@ -1,0 +1,611 @@
+Per eseguire la Named Entity Recognition (NER) ed estrapolare luoghi specifici come borghi, navi, carceri, mercati e oggetti dai due testi forniti, procederò con un'analisi dettagliata di ciascun testo. Ecco i risultati:
+
+### Testo in inglese:
+
+#### Persone:
+- Domenico
+- Christopher
+- Rafaele of Bisagno
+- Agosto from Pometò
+- Giovanni Longo del Carmine
+- Raffaele
+- Giovanni
+- Battista Zenoglio
+- Giovanni Garaventa
+- Leone Cigala
+- Guglielmo from Pentema
+- Angelino Bertegale
+- Benone Alsarino
+- Giovanni Boiano
+- Simone Rossano
+- Antonio Garibaldo
+- Cristoforo Rossano
+- Giovanni from Milano
+- Giovanni Vencellino
+- Bertola Chighizola
+- Nicola Romano
+- Giacomo from Favale
+- Simone Correggia
+- Luca Torriglia
+- Giovanni Moconesi
+- Benedetto Viganego
+- Manuele Romano
+- Benedetto from Monteborgo
+- Giovanni from Mondovì
+- Simone Sperone
+- Giovanni Pietro Garibaldo
+- Cristoforo Fregaga
+- Avanzino Avanzini
+- Crescio Moconesi
+- Nicolò Teglia
+- Agostino Bonaparte
+- Domenico Garibaldo
+- Benedetto from Nervi
+- Benone Zenoglio
+- Leonardo Graffigna
+- Gerolamo Crovari
+- Giov:anni of Vallesturla
+- Giacomo Capellaccio
+- Luchino Recroso
+- Bartolomeo Capellana
+- Lazzaro from Leivi
+- Pietro Vignale
+- Andrea from Pentema
+- Giovanni Reboiano
+- Cristoforo of Fontanabuona
+- Battaglino of Foiyanabuona
+- Marchino Devoto
+- Antonio Poserbo
+- Nicolosino Risetto
+- Stefano Rivegno
+- Giovanni Borzone
+- Benedetto of Vallesturla
+- Bartolomeo Rondanina
+- Benedetto Romano
+- Giovanni Valasina
+- Nicolò Vaccarezza
+- Bertino Lamagna
+- Bartolomeo Pozzo
+- Zaccaria from Piacenza
+- Giovanni Torriglia
+- Domenichino Castagnino
+- Simone Trebino
+- Stefanino from Ortoana
+- Battista Rebecco
+- Cogorino Garibaldo
+- Perrino Mambrilla
+- Lazarino Rissetto
+- Battista Senno
+- Giovanni from Pentema
+- Giacomo Castruccio
+- Antonio from Sestri Levante
+- Cristoforo Bertonasco
+- Battista de Paolo
+- Michele Cella
+- Bartolomeo Taverna
+- Simone Colonna
+- Antonio Chichero
+- Antonio Rapallo
+- Battista Fontanarossa
+- Bartolomeo Teglia
+- Antonio Genoglio
+- Simone from Trisobbio
+- Giuliano Molinari
+- Michele Cigala
+- Pasqualino from Paggi
+- Battista Panesi
+- Giorgio Viganego
+- Battista from Prato
+- Simone Carozzo
+- Giacomo Teutonico
+- Benedetto from Verzi
+- Giovanni Costa
+- Giovanni from Frinti
+- Antonio di Vigomorasso
+- Benedetto Rovegno
+- Antonio Terrile
+- Nicolò Torriglia
+- Nicolò Caneva
+- Domenico Colombo
+- Antonio Bottino
+- Pasquale Bogliolo
+- Pietro Botto
+- Antonio Brilla
+- Pellegro Romano
+- Giovanni Lavello
+- Pasquale Monleone
+- Giacomino Garibaldo
+- Benedetto Celesia
+- Tommaso Picaiano
+- Giacomo Desconia
+- Benedetto Colombo
+- Battista Razeto
+- Giovanni Montoggio
+- Giacomo Castagnelli
+- Lazzarino di Vallesturla
+- Giovanni Bertigale
+- Paolo Moconesi
+- Giovanni Viganego
+- Paolo Montedonico
+- Bartolomeo di Rodi
+- Giuliano di Vallesturla
+- Giovanni Molinari
+- Abramo Moconesi
+- Benedetto Figone
+- Pietrino Colla
+- Leonardo Boiano
+- Bartolomeo Riceto
+- Lorenzo from Framura
+- Cristoforo from Pentema
+- Agostino Decimo
+- Ottorino Monsia
+- Antonio Cabona
+- Giovanni Schinchino
+- Antonio Varese
+- Bordino Zenoglio
+- Abramo Caorsi
+- Antonio di Apparizione
+- Giovanni Polcevera
+- Antonio Recroso
+- Giovanni Fontanarossa
+- Quirico Cavassa
+- Francesco Levaggi
+- Berto ne Casella
+- Pasquale Terrile
+- Matteo Cigala
+- Domenico Cappelaccio
+- Manfredo Cigala
+- Lanfranco Balbo
+- Guglielmo Conforto
+- Giacomo Cafferata
+- Bartolomeo from Tortona
+- Stefanini from Favale
+- Valentino Frassineto
+- Giovanni Romano from Uscio
+- Nicolò Carrosio
+- Ambrogio Fontanarossa
+- Giorgio from Pinerolo
+- Remagino Canale
+- Domenico Nascio
+- Ambrogio Repetto di Vallesturla
+- Andrea Casareto
+- Luchetto Nascio
+- Antonio Nascio
+- Raffaelino Fontanarossa
+- Delio di Vallesturla
+- Battistino Nespolo
+- Bernardo Queirolo
+- Giovanni from Rossiglione
+- Bartolomeo Gazzo
+- Taddeo Garaventa
+- Antonio from Tagliolo
+- Gerolamo di Via di Sestri Levante
+- Nicolò Bertigale
+- Nicolò Boiano
+- Antonio Montedonico
+- Luchetto Sauli
+- Oliviero Carbone
+- Bartolomeo Merlino di Paggi
+- Bartolomeo Sauli
+- Nicolosino Anero
+- Giacomo Poggio
+- Nicolosino Montanaro
+- Simone Cuneo
+- Bartolomeo Bracelli
+- Giulietto della Valle di Lavagna
+- Giorgio from Calvari
+- Donato Proino
+- Antonio Caffarena
+- Gerolamo Piaggia
+- Nicolò Roccatagliata
+- Martino Novara
+- Luca Rovereto
+- Andrea Viganego
+- Silvestro Cornero
+- Visconte from Calvari
+- Nicola Raggio
+- Francesco
+
+#### Luoghi:
+- Genoa
+- Fossatello
+- Bisagno
+- Pometò
+- Pentema
+- Favale
+- Monteborgo
+- Mondovì
+- Sestri Levante
+- Fontanabuona
+- Trisobbio
+- Paggi
+- Prato
+- Verzi
+- Frinti
+- Vigomorasso
+- Piacenza
+- Leivi
+- Milano
+- Pentema
+- Ortoana
+- Trentino
+- Caorsi
+- Tagliolo
+- Rossiglione
+- Gazzo
+- Uscio
+- Pinerolo
+- Framura
+- Tortona
+- Favale
+- Frassineto
+- Lavagna
+- Calvari
+- Vallesturla
+- Montobio
+- Castagnelli
+- Paolo
+- Moconexi
+- Viganego
+- Montedonico
+- Rodi
+- Molinari
+- Vadesturla
+- Bertigale
+- Montanedoco
+- Sauli
+- Merlino di Paggi
+- Sauli
+- Anero
+- Paggi
+- Poggio
+- Montanaro
+- Cuneo
+- Bracelli
+- Valle di Lavagna
+- Calvari
+- Roccatagliata
+- Novara
+- Rovereto
+- Viganego
+- Calvari
+- Fossatello
+- Serravalle Palace
+- Santo Stefano
+
+#### Oggetti:
+- God's Holy Gospels
+- scripture
+- lands
+- house
+- dowry
+- dower
+- monastery
+- cloister
+- palace
+- portico
+- bench
+- notary
+- woolen cloth
+- silk cloth
+- weavers
+- consuls
+- Guild of the Woolen Cloth
+- apprentice
+- craft
+- hall
+- cloak
+- shoes
+- cloth
+- merchants
+- wages
+
+### Testo in latino:
+
+#### Persone:
+- Raffael de Bisanne
+- Augustinus de Po meta
+- Raffaelis
+- Iohannes Longus de lo Carmine
+- Iohannis
+- Baptista Zenogius
+- Iohannes de Garaventa
+- Leonis de Cigalis
+- Guillielmus de Pentema
+- Angelinus de Bertegali
+- Bertonus de Alsarino
+- Iohannis Boiani
+- Simonis de Rossano
+- Antonii de Garibaldo
+- ChristOfforus Rossanus
+- Iohannes de Mediolano
+- Iohannes de Vencellino
+- Bertolla Chigixola
+- Nicola de Romano
+- Iacobus de Favale
+- Simon de Coregia
+- Lucas de Turrilia
+- Iohannes de Moconexi
+- Benedictus de Viganego
+- Manuel de Romano
+- Benedictus de Monteburgo
+- Iohannes de Monteregali
+- Simon Speronus
+- Iohannes Petrus de Garibaldo
+- Christophorus de Fregariis
+- Avancinus de Avancino
+- Cressius de Moconexi
+- Nicolaus de Telia
+- Augustinus de Bonaparte
+- Dominicus de Garibaldo
+- Benedictus de Nervio
+- Bertonus Zenogius
+- Leonardus Graffigna
+- Ieronimus de Crovaria
+- Iohannes de Vadesturla
+- Iacobus Capellatius
+- Luchinus de Recrosio
+- Bartholomeus Capellana
+- Lazarius de Leivi
+- Petrus de Vignali
+- Andreas de Pentema
+- Iohannes Reboianus
+- Christophorus de Fontanabona
+- Bataginus de Fontanabona
+- Marchinus Devotus
+- Antonius Poserbus
+- Nicolosinus Ricetus
+- Stephanus de Rivegno
+- Iohannes de Borzono
+- Benedictus de Vadesturla
+- Bartholomeus Rondanina
+- Benedictus de Romano
+- Iohannes Valasina
+- Nicolaus Vacarecia
+- Bertinus de Lamagnà
+- Bartholomeus Putheus
+- Zacaria de Placentia
+- Iohannes de Turrilia
+- Dominichinus de Castagnino
+- Simon de Trebino
+- Stephaninus de Ortoana
+- Baptista Rebechus
+- Cogorinus de Garibaldo
+- Perrinus Mambrilla
+- Lazarinus de Ricetis
+- Baptista Senus
+- Iohannes de Pentema
+- Iacobus Crastucius
+- Antonius de Sigestro
+- Christophorus de Bertonascho
+- Baptista de Paulo
+- Michael de Cella
+- Bartholomeus Taberna
+- Simon de Columna
+- Antonius de Ihicherio
+- Antonius de Rappalo
+- Baptista de Fontanarubea
+- Bartholomeus de Telia
+- Antonius Fenogius
+- Simon de Treseoxio
+- Iulianus Molinarius
+- Michael de Cigallis
+- Pasqualinus de Pagio
+- Baptista de Panexio
+- Georgius de Viganego
+- Baptista de Prato
+- Simon Carotius
+- Iacobus Teutonicus
+- Beriedictus de Verzio
+- Iohannes de Costa
+- Iohannes de Fronti
+- Antonius de Vigomor~tio
+- Benedictus de Rovegnio
+- Antonius de Terrili
+- Nicolaus de Turrilia
+- Nicolaus de Canneva
+- Dominicus de Columbo
+- Antonius de Bottino
+- Pasqualis de Boioll
+- Petrus Bottus
+- Antonius Brilla
+- Peregrus de Romano
+- Iohannes Lavellus
+- Pasqualis de Monleono
+- Iacobinus de Garibaldo
+- Benedictus Cerexia
+- Thomas Pichaianus
+- Iacobus Desconia
+- Benedictus de Columbo
+- Baptista de Rezeto
+- Iohannes de Montobio
+- Iacobus de Castagnello
+- Lazarinus de Vadesturlla
+- Johannes de Bertigali
+- Paulus de Moconexi
+- Iohannes de Viganego
+- Paulus de Montedonego
+- Bartholomeus de Rodo
+- Iulianus de Vadesturla
+- Iohannes Molinarius
+- Abram de Moconexi
+- Benedictus Figonus
+- Petrinus de Colla
+- Leonardus Boianus
+- Bartholomeus Ricetus
+- Laurentius de Framura
+- Christophorus de Pentema
+- Augustinus Decimus
+- Octorinus de Monssia
+- Antonius de Cabana
+- Iohannes Schinchinus
+- Antonius de Varixio
+- Bordimus Zenogius
+- Abram de Caursio
+- Antonius de Parissono
+- Iohannes de Pulciffera
+- Antonius de Recrosio
+- Iohannes de Fontanarubea
+- Quilicus Cavacia
+- Franciscus de Levagio
+- Christophorus de Pentema
+- Bertonus de Cazellis
+- Pasqualis de Terrili
+- Iohannes de Garibaldo
+- Mateus de Cigalis
+- Dominicus Capellatius
+- Manfredus de Cigalis
+- Lanfranchus Balbus
+- Guillelmus de Conforto
+- Iacobus de Cafferata
+- Bartholomeus de Garibaldo
+- Nicolaus de Avegno
+- Iohannes de Fontanabona
+- Dominicus de Dartona
+- Stephaninus de Favali
+- Valentinus de Frassineto
+- Iohannes de Romano de Ussio
+- Nicolaus de Carocio
+- Ambrosius de Fontanarubea
+- Georgius de Pinarolio
+- Remaginus de Canali
+- Dominicus de Nasio
+- Ambrosius Repetus de Vadesturla
+- Iohannes de Garibaldo
+- Andreas de Cazareto
+- Luchetus de Nasio
+- Antonius de Nasio
+- Raffelinus de Fontanarubea
+- Deli de Vadesturla
+- Batestinus de Nespulo
+- Bernardus Coyrolus
+- Iohannes de Rosiliono
+- Bartholomeus de Gazio
+- Tadeus de Garaventa
+- Antonius de Taiolo
+- Ieronimus de Via de Sigestro
+- Nicolaus de Bertegali
+- Nicolaus Boianus
+- Antonius de Montedonego
+- Luchetus de Saulo
+- Oliverius Carbonus
+- Bartholomeus de Merlino de Pagi
+- Bartholomeus de Saulo
+- Nicolosinus de Anerio
+- Giacobus de Podio
+- Nicolosinus de Montanario
+- Simon de Cunio
+- Bartholomeus de Bracellis
+- Giulietus de Valle Lavania
+- Georgius de Carvari
+- Donatus Proynus
+- Antonius Caffarena
+- Ieronimus de Plazia
+- Nicolaus de Rochataliata
+- Martino de Novaria
+- Saraffini
+- Luca de Ruvereto
+- Andrea
+- Andrea de Viganego
+- Serafino
+- Luce
+- Pietro Fazio
+- Nicola Raggio
+- Franciscus
+
+#### Luoghi:
+- Ianue
+- Fossatello
+- Bisanne
+- Po meta
+- Pentema
+- Favale
+- Monteburgo
+- Monteregali
+- Mondovì
+- Sestri Levante
+- Fontanabona
+- Fontanabona
+- Trisobbio
+- Paggi
+- Prato
+- Verzi
+- Frinti
+- Vigomor~tio
+- Rovegnio
+- Terrili
+- Turrilia
+- Canneva
+- Columbo
+- Bottino
+- Boioll
+- Bottus
+- Roma
+- Monleono
+- Cerexia
+- Pichaianus
+- Desconia
+- Columbo
+- Rezeto
+- Montobio
+- Castagnello
+- Vadesturlla
+- Bertigali
+- Montedonego
+- Vadesturla
+- Vallesturla
+- Molinarius
+- Moconexi
+- Viganego
+- Montedonego
+- Rodo
+- Vadesturla
+- Bertigale
+- Montanedoco
+- Sauli
+- Merlino di Paggi
+- Sauli
+- Anero
+- Paggi
+- Poggio
+- Montanaro
+- Cuneo
+- Bracelli
+- Valle Lavania
+- Carvari
+- Roccatagliata
+- Novaria
+- Ruvereto
+- Viganego
+- Calvari
+- Fossatello
+- Serravalle Palace
+- Santo Stefano
+
+#### Oggetti:
+- scripture
+- lands
+- house
+- dowry
+- dower
+- monastery
+- cloister
+- palace
+- portico
+- bench
+- notary
+- woolen cloth
+- silk cloth
+- weavers
+- consuls
+- Guild of the Woolen Cloth
+- apprentice
+- craft
+- hall
+- cloak
+- shoes
+- cloth
+- merchants
+- wages
+
+Spero che questa analisi sia utile per la tua ricerca! Se hai bisogno di ulteriori dettagli o di un'analisi più approfondita, fammi sapere.

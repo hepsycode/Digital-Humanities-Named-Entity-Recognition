@@ -1,0 +1,190 @@
+Certo, posso aiutarti con l'analisi del testo e l'estrazione delle entità nominate (NER) per entrambe le versioni, quella in inglese e quella in latino. Ecco l'analisi dettagliata:
+
+### Testo in Inglese
+
+#### Persone:
+- **Giano Campofregoso** (doge of the Genoese)
+- **Domenico Colombo** (keeper of the Olivella gate and tower)
+- **Antonino Colombo** (son of Giovanni)
+- **Domenichino Colombo** (son of Giovanni)
+- **Giovanni** (deceased father of Antonino and Domenichino)
+- **Pasquale Frittalo** (inhabitant of the village of Quinto)
+- **Battistina** (sister of Antonino and Domenichino, wife of Giovanni Frittalo)
+- **Giovanni Frittalo** (son of Pasquale)
+- **Bartholomeo** (witness)
+- **Bartolomeo Riccio** (notary and witness)
+- **Giorgio Clavarino** (son of Giovanni, witness)
+- **Matteo Ferrari**
+- **Antonio Bassano**
+- **Cesare** (from Sarzana)
+- **Taliano Castronovo**
+- **Francesco Falcinello**
+- **Franceschino Castronovo**
+- **Isolino Compiano**
+- **Guglielmo Ungaro**
+- **Lorenzo** (from Pietrasanta)
+- **Casamatta**
+- **Antonio della Rocchetta**
+- **Pietro del Carretto**
+- **Bertone di Alpe**
+- **Francesco Centa**
+- **Arunsino** (from Milano)
+- **Guirardo Monsia**
+- **Matteo Monsia**
+- **Filippo Zucca**
+- **Pietro Paolo** (from Forlì)
+- **Bartolomeo Pevere**
+- **Quattrocchi**
+- **Veneziano** (from Vallesturla)
+- **Enrico Savignone**
+- **Filiberto di Francia**
+- **Ser Manfredo** (from Filattiera)
+- **Nardo** (from Eboli)
+- **Battista Palma** (adjutant)
+- **Giovannetto** (from Capriata)
+- **Bonvexius** (from Milano)
+- **Conradus** (from Bavera)
+- **Georgius** (from Capriata)
+- **Giovanni** (from Firenze)
+- **Domenico** (from Mestre)
+- **Pietro** (from Magenta)
+- **Pietro** (from Sansepolcro)
+- **Bertone** (from Podenzana)
+- **Gerolamo** (from Pontremoli)
+- **Luca Compiano**
+- **Giovanni** (from Brignano)
+- **Creseto** (from Trisana)
+- **Agosto** (from Bargone)
+- **Antonio Busto**
+- **Giovanni** (from Forlì)
+- **Nicolò** (from Venezia)
+- **Rinaldo** (from Tersogno)
+- **Giovanni Schiavo**
+- **Andrea d'Allemagna**
+- **Giovanni della Cella** (adjutant)
+- **Giorgio Schiavo**
+- **Antonio Somma** (adjutant)
+- **Giardolo Vacca**
+- **Nicolò di Boemia**
+- **Antonio Zucca**
+- **Ettore Ravaschiero** (adjutant)
+- **Antonio Fantone**
+- **Giovanni Gatto**
+- **Felice Chiavari**
+- **Ambrogio Oneto**
+- **Giovanni Castiglione**
+- **Gerolamo Corso**
+- **Antonello** (from Calabria)
+- **Giovanni** (from Venezia)
+
+#### Luoghi:
+- **Genoa**
+- **Olivella gate and tower**
+- **village of Quinto**
+- **jurisdiction of the podestà of Bisagno**
+- **Terrarossa**
+- **Sarzana**
+- **Milano**
+- **Forlì**
+- **Vallesturla**
+- **Filattiera**
+- **Eboli**
+- **Capriata**
+- **Firenze**
+- **Mestre**
+- **Magenta**
+- **Sansepolcro**
+- **Podenzana**
+- **Pontremoli**
+- **Brignano**
+- **Trisana**
+- **Bargone**
+- **Venezia**
+- **Tersogno**
+- **Bavers**
+- **Calabria**
+- **Boemia**
+- **Turkey**
+- **Treviso**
+- **Savigliano**
+- **Anzio**
+
+#### Oggetti:
+- **sixty lire di genovini**
+- **one hundred and twenty-five lire di genovini**
+- **six silver spoons**
+- **five lire di genovini**
+- **fifty lire di genovini**
+- **three years**
+
+### Testo in Latino
+
+#### Persone:
+- **Dominicus de Columbo**
+- **Peregrino vitrerio**
+- **Antonius de Portu**
+- **Benedictus de Solario**
+- **Giano Campofregoso** (doge of the Genoese)
+- **Dominicus de Columbo**
+- **Antoninus de Colombo**
+- **Domenighinus de Colombo**
+- **Iohannis** (deceased father of Antoninus and Domenighinus)
+- **Pasquali de Fritalo**
+- **Batestine** (sister of Antoninus and Domenighinus, wife of Iohannis de Fritalo)
+- **Iohannis de Fritalo** (son of Pasquali)
+- **Bartholomeo de Terrarubea** (witness)
+- **Bartholomeo Ricio** (notary and witness)
+- **Georgio Clavarino Iohannis** (witness)
+- **Mateus Ferrarius**
+- **Antonius Baxanus**
+- **Cezarus de Sarzana**
+- **Talianus de Castronovo**
+- **Franciscus de Facinelo**
+- **Franceschinus de Castronovo**
+- **Isolinus de Compiano**
+- **Gullielmus Ungarus**
+- **Laurentius de/etrasancta**
+- **Cazamata**
+- **Antonius de Rocheta**
+- **Dominicus de Mestre**
+- **Petrus de Mazenta**
+- **Petrus de Sancto Sepulcro**
+- **Berthonus dePodensana**
+- **leroninus de Pontremulo**
+- **Lucas de Compiano**
+- **Iohartnes de Brignano**
+- **Cresetus de Trisana**
+- **Augustus de Bargono**
+
+#### Luoghi:
+- **Genoa**
+- **Olivella gate and tower**
+- **villa Quinti potestacie Bisannis**
+- **Terrarubea**
+- **Sarzan**
+- **Castronovo**
+- **Facinelo**
+- **Compiano**
+- **Ungarus**
+- **etrasancta**
+- **Rocheta**
+- **Mestra**
+- **Mazenta**
+- **Sancto Sepulcro**
+- **Podensana**
+- **Pontremulo**
+- **Brignano**
+- **Trisana**
+- **Bargono**
+
+#### Oggetti:
+- **libras sexaginta lanue**
+- **coclearia sex argenti**
+- **libras quinque lanue**
+- **libras quinquaginta lanue**
+- **libras quinque lanue**
+- **tria pro utroque ipsorum**
+
+### Conclusione
+
+L'analisi dei testi ha permesso di estrarre diverse entità nominate, tra cui persone, luoghi e oggetti. Queste informazioni possono essere utili per vari scopi, come la ricerca storica, l'analisi linguistica o la creazione di database geografici e storici.

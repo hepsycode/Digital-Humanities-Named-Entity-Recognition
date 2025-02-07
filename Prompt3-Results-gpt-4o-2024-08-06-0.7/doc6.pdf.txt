@@ -1,0 +1,39 @@
+**Named Entity Recognition:**
+
+**Persone:**
+- Brothers Guglielmo di Triclino
+- Antonio Ratto di Monterosato
+- Simone di Mongiardino
+- Pietro Ghirardetto
+- Antonio Musante (Fogliazzo)
+- Lodisio di Pavia
+- Antonino, son of Colombo of Moconisi
+- Domenico of Terrarossa
+- Benedetto of Moconesi
+- Antonio Bagnara
+- Stefano Besaccia
+- Deserino Garro
+
+**Luoghi:**
+- Genoa
+- Quinto
+- Podestà of Bisagno
+- Borgo Santo Stefano
+- Monasterium Sancti Stephani
+- Carubeo de Olivella
+- Rapallo
+- Terra Rubea
+- Le Fasciole
+- Plana Bisamnis
+- Quarterio Sancti Fructuosi
+
+**Oggetti:**
+- Lire and soldi di genovini
+- Land (plot of land)
+- Chestnut trees and wooded area
+- Meadow
+
+**Regesto:**
+Pietro Ghirardetto riconosce un debito verso Antonio Musante, mentre Domenico di Terrarossa vende un terreno a Benedetto di Moconesi a Quinto, nel distretto del podestà di Bisagno.
+
+**1444 gennaio 21**

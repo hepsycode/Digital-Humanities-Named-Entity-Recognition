@@ -1,0 +1,51 @@
+```csv
+entity,latin_name,category,role
+Pietro Ghirardetto,Petrus de Guiratdeto,person,Debitore in un contratto di pagamento
+Antonio Musante,Antonio de Muzante,person,Creditore in un contratto di pagamento
+Lodisio of Pavia,Lodixii de Papia,person,Testimone e proprietario della casa dove si è svolto l'atto notarile; wool-worker
+Antonino,Antonino de Columbo de Moconexi,person,Testimone; figlio di Colombo of Moconesi, residente a Quinto
+Colombo of Moconesi,,person,Padre di Antonino, residente a Quinto
+Domenico of Terrarossa,Dominicus de Terra Rubea,person,Venditore di un terreno
+Benedetto of Moconesi,Benedicto de Moconexi,person,Acquirente di un terreno
+Antonio Bagnara,Antonii de Bagneria,person,Proprietario confinante con il terreno venduto
+Stefano Besaccia,Stephani Bezacie,person,Proprietario confinante con il terreno venduto
+Deserino Garro,Dexerini Garri,person,Proprietario confinante con il terreno venduto
+Martino de Facio,,person,Padre del notaio e proprietario della casa dove si è svolto l'atto notarile
+Bartolomeo de Facio,Bartolomeo de Facio Martini,person,Testimone; figlio di Martino de Facio
+Guillielmo de Fontanarubea,Guillielmo de Fontanarubea,person,Testimone
+Mattheus de Flisco,Mattheus de Flisco,person,Conte di Lavagna, rappresentante del Cardinale Giorgio de Flisco e del monastero di San Stefano
+Giorgio de Flisco,Georgii,person,Cardinale di Santa Romana Chiesa, commendatario del monastero di San Stefano
+Ieronjmus de Pendola,Ieronjmus de Pendola,person,Priore claustrale del monastero di San Stefano
+Gregorius de Verdura,Gregorius de Verdura,person,Monaco del monastero di San Stefano
+Michael Garronus,Michael Garronus,person,Monaco del monastero di San Stefano
+Baptista de Costaguta,Baptista de Costaguta,person,Monaco del monastero di San Stefano
+Dominighino Colombo,Dominighino Columbo,person,Affittuario di un terreno; figlio di Ioannis; textori pannorum
+Ioannis,,person,Padre di Dominighino Colombo
+Petrus de Croza,Petri de Croza,person,Affittuario di una casa dal monastero di San Stefano
+Bertore de Valetariis,Bertore de Valetariis,person,Affittuario di una casa dal monastero di San Stefano
+Raffus de Gravano,Raffus de Gravano,person,Precendente affittuario del terreno
+Iacobus Mazurro,Iacobus Mazurro,person,Testimone; notaio; figlio di Stefani
+Petrus Antonius Narixe,Petrus Antonio Narixe,person,Testimone; figlio di Iohannis
+Guglielmo di Triclino,Gulielmo de Triclino,person,Testimone
+Antonio Ratto di Monterosato,Antonio Ratto de Monterosato,person,Testimone
+Simone di Mongiardino,Simone de Mongiardino,person,Testimone
+Baptiste de Calisano,,person,Notaio
+Quinto,ville Quinti,place,Villaggio dove risiedono diverse persone menzionate negli atti
+Bisagno,potestatie Bisamnis,place,Giurisdizione di Quinto
+Borgo Santo Stefano,burgo Sancti Stephani,place,Luogo in Genova dove si è svolto un atto notarile
+Genoa,Ianue,place,Città dove si sono svolti diversi atti notarili
+House of Lodisio of Pavia,domus habitacionis Lodixii de Papia,place,Luogo specifico dove si è svolto un atto notarile; si trova nel Borgo Santo Stefano
+Moconesi,Moconexi,place,Villaggio di provenienza di alcuni testimoni
+Terrarossa,Terra Rubea,place,Luogo di provenienza di Domenico
+"le Fasciole","le Fassiole",place,Località del terreno venduto, situata a Quinto
+Plana Bisamnis,plana Bisamnis,place,Luogo dove si è svolto un atto notarile
+Quarterio Sancti Fructuosi,quarterio Sancti Fructuosi,place,Luogo specifico in Plana Bisamnis dove si è svolto un atto notarile
+House of Martino de Facio,domus habitacionis Martini de Facio,place,Luogo specifico dove si è svolto un atto notarile; si trova nel Quarterio Sancti Fructuosi
+Palazzo Ducale,Palatii Ducalis,place,Luogo in Genova dove si è svolto un atto notarile
+Monastero di San Stefano,monasterii Sancti Stephani,place,Monastero benedettino a Genova, coinvolto in un contratto di affitto
+Carubeo de Olivella,caru:beo de Olivella,place,Strada a Genova dove si trova la proprietà affittata
+House of Petrus de Croza,domus Petri de Croza,place,Confine della proprietà affittata
+House of Bertore de Valetariis,domus Bertore de Valetariis,place,Confine della proprietà affittata
+Terreno,peciam terre,physical object,Oggetto della compravendita tra Domenico e Benedetto
+Campana,campanule,physical object,Usata per convocare i monaci per la decisione capitolare
+```

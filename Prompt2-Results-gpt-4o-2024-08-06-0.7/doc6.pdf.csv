@@ -1,0 +1,29 @@
+```plaintext
+Entity Name,Latin Name,Category,Role
+Guglielmo di Triclino,Gulielmo de Triclino,person,witness
+Antonio Ratto di Monterosato,Antonio Ratto de Monterosato,person,witness
+Simone di Mongiardino,Simone de Mongiardino,person,witness
+Pietro Ghirardetto,Petrus de Guiratdeto,person,debtor
+Antonio Musante,Antonio de Muzante,person,creditor
+Lodisio of Pavia,Lodixio de Papia,person,wool-worker and witness
+Borgo Santo Stefano,Burgo Sancti Stephani,place,location of the legal act
+Quinto,Quinti,place,residence of involved parties
+Bisagno,Bisamnis,place,jurisdiction
+Domenico of Terrarossa,Dominicus de Terra Rubea,person,land seller
+Benedetto of Moconesi,Benedictus de Moconexi,person,land buyer
+Antonio Bagnara,Antonio de Bagneria,person,land boundary owner
+Stefano Besaccia,Stephanus Bezacie,person,land boundary owner
+Deserino Garro,Dexerini Garri,person,land boundary owner
+Fasciole,Fassiole,place,location of the land
+chestnut trees and meadow,castaneate et prative,physical object,features of sold land
+Jacobo Mazurro,Iacobo Mazurro,person,witness
+Pietro Antonio Narixe,Petro Antonio Narixe,person,witness
+Mattheus de Flisco,Mattheus de Flisco,person,noble and procurator
+Georgius,Georgii,person,cardinal
+Monastery of San Stefano,monasterii Sancti Stephani,place,land owner
+Dominighino Columbo,Dominighino Columbo,person,tenant
+Ioannis,Ioannis,person,father of Dominighino Columbo
+Petri de Croza,Petri de Croza,person,neighbor
+Bertore de Valetariis,Bertore de Valetariis,person,neighbor
+Raffus de Gravano,Raffus de Gravano,person,former tenant
+```

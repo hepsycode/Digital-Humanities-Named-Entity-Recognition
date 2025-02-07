@@ -1,0 +1,15 @@
+{
+    "response_length": 3552,
+    "execution_time": 19.08886480331421,
+    "temperature": 0.0,
+    "usage": {
+        "input_tokens": 4711,
+        "output_tokens": 896,
+        "total_tokens": 5607,
+        "input_token_details": {
+            "cache_read": 0
+        }
+    },
+    "price_usd": 0.014798,
+    "model_name": "gemini-1.5-pro"
+}

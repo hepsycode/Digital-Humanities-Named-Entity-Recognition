@@ -1,0 +1,126 @@
+Per eseguire la Named Entity Recognition (NER) sui testi in inglese e latino, identificheremo le entità nominate come persone, luoghi (inclusi borghi, navi, carceri, mercati e luoghi simili), date, oggetti e altre entità rilevanti. Ecco l'analisi:
+
+### Testo in Inglese
+
+#### Persone:
+- Guglielmo di Triclino
+- Antonio Ratto di Monterosato
+- Simone di Mongiardino
+- Pietro Ghirardetto
+- Antonio Musante (Fogliazzo)
+- Lodisio of Pavia
+- Antonino
+- Colombo of Moconesi
+- Domenico of Terrarossa
+- Benedetto of Moconesi
+- Antonio Bagnara
+- Stefano Besaccia
+- Deserino Garro
+
+#### Luoghi:
+- Genoa
+- Borgo Santo Stefano
+- Quinto
+- Bisagno
+- Moconesi
+- Terrarossa
+
+#### Date:
+- 1444
+- Wednesday, the twenty-first day of January
+- the sixth day of September
+
+#### Oggetti:
+- fifty-two lire and ten soldi di genovini
+- plot of land
+- chestnut trees
+- meadow
+- public street
+- property
+- door-step of the house
+- house
+- wool-worker
+- village
+- jurisdiction of the podestà
+
+### Testo in Latino
+
+#### Persone:
+- Iacobo Mazurro
+- Petro Antonio Narixe
+- Mattheus de Flisco
+- Georgii
+- Baptiste de Calisano
+- Ieronjmus de Pendola
+- Gregorius de Verdura
+- Michael Garronus
+- Baptista de Costaguta
+- Dominighino Columbo
+- Petri de Croza de Rapallo
+- Bertore de Valetariis
+- Raffus de Gravano
+- Gulielmo de Triclino
+- Antonio Ratto de Monterosato
+- Simone de Mongiardino
+- Petrus de Guiratdeto
+- Antonio de Muzante ('Foliacio')
+- Antonino de Columbo de Moconexi
+- Lodixio de Papia
+- Dominicus de Terra Rubea
+- Benedicto de Moconexi
+- Antonii de Bagneria
+- Stephani Bezacie
+- Dexerini Garri
+- Bartholomeo de Facio Martini
+- Guillielmo de Fontanarubea
+
+#### Luoghi:
+- Ianue (Genoa)
+- Palatii Ducalis
+- Comunis Ianue
+- Lavanie
+- Sancte Anastasie
+- Sancte Romane Ecclesie
+- monasterii Sancti Stephani Ianuensis
+- Sancti Benedicti
+- carrubeus
+- quintana
+- Olivella
+- Rapallo
+- Bisamnis
+- Quinti
+- Moconexi
+- Quarti
+- villa Quinti
+- le Fassiole
+- Sancti Fructuosi
+- platea domus
+
+#### Date:
+- 1439
+- die mercurii prima aprilis
+- 1440
+- die .VI. septembris
+- 1444
+- die martis vigesimo primo mensis Ianuarii
+- 1437
+- die XV decembris in terciis
+
+#### Oggetti:
+- terra
+- solum
+- edificium unius domus
+- domus
+- soldi .XV. IL½
+- soldi .XV. II.½.
+- libras quinquaginta duas et soldos decem ianuinorum
+- peciam terre
+- castaneate
+- boschive
+- prative
+- via publica
+- librarum quinquaginta sex Ianue
+
+### Conclusione
+
+L'analisi dei testi ha rivelato numerose entità nominate, inclusi nomi di persone, luoghi specifici (come borghi e monasteri), date e oggetti. Queste entità forniscono un contesto ricco per comprendere i dettagli storici e legali descritti nei documenti.

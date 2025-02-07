@@ -1,0 +1,92 @@
+Named Entity Recognition:
+
+**Personaggi:**
+- Giano Campofregoso
+- Domenico Colombo
+- Antonino Colombo
+- Domenichino Colombo
+- Giovanni
+- Pasquale Frittalo
+- Battistina
+- Giovanni Frittalo
+- Bartolomeo di Terrarossa
+- Bartolomeo Riccio
+- Giorgio Clavarino
+- Matteo Ferrari
+- Antonio Bassano
+- Cesare da Sarzana
+- Taliano Castronovo
+- Francesco Falcinello
+- Franceschino Castronovo
+- Isolino Compiano
+- Guglielmo Ungaro
+- Lorenzo da Pietrasanta
+- Antonio della Rocchetta
+- Pietro del Carretto
+- Bertone di Alpe
+- Francesco Centa
+- Arunsino da Milano
+- Scarnichio da Milano
+- Guirardo Monsia
+- Matteo Monsia
+- Filippo Zucca
+- Pietro Paolo da Forlì
+- Bartolomeo Pevere
+- Veneziano da Vallesturla
+- Enrico Savignone
+- Filiberto di Francia
+- Ser Manfredo da Filattiera
+- Nardo da Eboli
+- Battista Palma
+- Giovannetto da Capriata
+- Bonvexius da Milano
+- Conradus da Bavera
+- Georgius da Capriata
+- Giovanni da Firenze
+- Domenico da Mestre
+- Pietro da Magenta
+- Pietro da Sansepolcro
+- Bertone da Podenzana
+- Gerolamo da Pontremoli
+- Luca Compiano
+- Giovanni da Brignano
+- Creseto da Trisana
+- Agosto da Bargone
+- Antonio Busto
+- Giovanni da Forlì
+- Nicolò da Venezia
+- Rinaldo da Tersogno
+- Giovanni Schiavo
+- Andrea d'Allemagna
+- Giovanni della Cella
+- Giorgio Schiavo
+- Antonio Somma
+- Giardolo Vacca
+- Nicolò di Boemia
+- Antonio Zucca
+- Ettore Ravaschiero
+- Antonio Fantone
+- Giovanni Gatto
+- Felice Chiavari
+- Ambrogio Oneto
+- Giovanni Castiglione
+- Gerolamo Corso
+- Antonello da Calabria
+- Giovanni da Venezia
+
+**Luoghi:**
+- Genova
+- Quinto
+- Bisagno
+- Podestà di Bisagno
+
+**Oggetti:**
+- Porta Olivella
+- Turris
+- Lire di genovini
+- Cucchiai d'argento
+
+Regesto:
+Giano Campofregoso nomina Domenico Colombo custode della Porta Olivella. Antonino e Domenichino Colombo si impegnano a saldare un debito di 125 lire di genovini per la dote della sorella Battistina.
+
+1448 aprile 20

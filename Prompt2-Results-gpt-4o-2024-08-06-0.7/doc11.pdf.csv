@@ -1,0 +1,21 @@
+```csv
+Entity,Name in Latin,Category,Role
+Giano Campofregoso,lanus de Campofregoso,person,Doge of Genoa
+Domenico Colombo,Dominicus de Columbo,person,Appointed as keeper of the Olivella gate and tower
+Antonino Colombo,Antoninus de Colombo,person,Brother of Domenichino, involved in dowry payment
+Domenichino Colombo,Domenighinus de Colombo,person,Brother of Antonino, involved in dowry payment
+Pasquale Frittalo,Pasquali de Fritalo,person,Recipient of the dowry payment
+Battistina Colombo,Batestine,person,Sister of Antonino and Domenichino, wife of Giovanni Frittalo
+Giovanni Frittalo,Iohannis de Fritalo,person,Husband of Battistina, son of Pasquale
+Genoa,lanue,place,Location of the document's enactment
+Quinto,ville Quinti,place,Village where the Colombos and Frittalo reside
+Olivella gate and tower,porte Olivele,place,Structure Domenico Colombo is appointed to oversee
+sixty lire di genovini,libras sexaginta lanue,physical object,Monetary part of dowry payment
+six silver spoons,coclearia sex argenti,physical object,Part of dowry payment
+St. Michael's Day,Sancti Michaelis,place,Deadline for partial payment
+Christmas,Nativitatis Domini,place,Beginning of payment period
+Angelo di Negro's house,domo Angeli de Nigro,place,Place where the document was enacted
+Bartolomeo from Terrarossa,Bartholomeo de Terrarubea,person,Witness to the document
+Bartolomeo Riccio,Bartholomeo Ricio,person,Notary and witness to the document
+Giorgio Clavarino,Georgio Clavarino,person,Witness to the document
+```

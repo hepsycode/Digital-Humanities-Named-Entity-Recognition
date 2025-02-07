@@ -1,0 +1,82 @@
+Sono pronto a eseguire il Named Entity Recognition (NER) sui due testi in inglese e latino. Ecco le risultate:
+
+**Testo in inglese**
+
+* **Personaggi:**
+ + Lord Giano Campofregoso
+ + Domenico Colombo
+ + Antonino Colombo
+ + Domenichino Colombo
+ + Giovanni Frittalo
+ + Battistina (sorella di Giovanni Frittalo)
+ + Pasquale Frittalo
+ + Peregrino vitrerio
+* **Luoghi:**
+ + Genoa
+ + Quinto
+ + Bisagno
+ + Terra Rossa
+ + Milano
+ + Pietrasanta
+ + Forlì
+ + Capriata
+ + Firenze
+ + Mestre
+ + Sansepolcro
+ + Podenzana
+ + Pontremoli
+ + Trisana
+ + Bargone
+* **Oggetti:**
+ + Libri
+ + Argenti
+ + Navi (menzionata la "nave" di Peregrino vitrerio)
+ + Carceri (non presente)
+ + Mercati (non presente)
+ + Torri e porte (come ad esempio la "porte Olivele")
+* **Data e eventi:**
+ + 4 febbraio
+ + 1448
+ + 20 aprile
+ + 1447
+
+**Testo in latino**
+
+* **Personaggi:**
+ + Dominicus de Columbo
+ + Antoninus de Portu
+ + Benedictus de Solario
+ + Pasquale de Fritalo
+ + Peregrino vitrerio
+ + Battistina (sorella di Giovanni Frittalo)
+ + Giovanni Frittalo
+* **Luoghi:**
+ + Genova
+ + Quinto
+ + Bisagno
+ + Terra Rossa
+ + Milano
+ + Pietrasanta
+ + Forlì
+ + Capriata
+ + Firenze
+ + Mestre
+ + Sansepolcro
+ + Podenzana
+ + Pontremoli
+ + Trisana
+ + Bargone
+* **Oggetti:**
+ + Libri
+ + Argenti (come ad esempio "coclearia sex argenti")
+ + Navi (menzionata la "nave" di Peregrino vitrerio)
+ + Carceri (non presente)
+ + Mercati (non presente)
+ + Torri e porte (come ad esempio la "porte Olivele")
+* **Data e eventi:**
+ + 8 giugno
+ + 1447
+ + 20 aprile
+ + 1448
+
+Nota che alcuni dei luoghi e degli oggetti menzionati potrebbero essere stati interpretati in modo diverso a seconda del contesto.

@@ -1,0 +1,21 @@
+**Named Entity Recognition e Analisi Testuale**
+
+**Testo Inglese**
+
+* **PERSONE:** Giovanni Colombo, Luca, Pasquale Piaggia, Michele Piaggia, Oberto Piaggia, Cristoforo Sisto, Antonio Leverone, Benedetto Colombo, Tommaso Piaggia, Benedetto Dezerga, Pietro Rimassa, Appolonia, Giacomo Assereto, Battista Assereto, Andrea Pietra, Margarita, Domenico Colombo, Giovanni Colombo, Gerolamo delle Vigne, Lanfranco, Bianchinetta, Oberto Balbi, Pellegro Piaggia, Domenichina, Giovanni Rocca.
+* **LUOGHI:** Moconesi, Zoagli, Genoa, Cicagna, Olivella, Portoria, Porta Sant'Andrea, Borgo Santo Stefano, shop of Pelegro Tassorello.
+* **OGGETTI:**  house, cheese, woolen cloth.
+
+
+**Testo Latino**
+
+* **PERSONE:** Benedictina, Iohannes de Carrega, Mariola, Angelinus de Columbo, Iulianus de Gazio de Usio, Benedictus de Columbo, Iohannes de Chesta Antonii, Laurentius de Costa, David de Staliano, Iohannes de Columbo, Luca, Pasqualis de Plazia, Michael de Plazia, Obertus de Plazia, Cristoforus Sixtus, Antonius de Leverono, Benedictus Columbo, Thomas de Plazia, Benedictus de Dezerega, Petrus Roymacia, Appolonia, Iacobus de Axereto, Baptista de Axereto, Andreas de Petra, Margarita, Dominicus de Columbo, Ieronimus de Vineis, Lanfrancus, Bianchinetta, Obertus Balbi, Pellegrus Piaggia, Domenichina, Iohannes Rocca, Nicolaus Garumberus, Iohannes de Brignolis, Benedictus de Monteburgo, Iacobus de Saona, Guilielmus, Crescio de Moconesi, Simon, Baptista Tassorello, Benedictus, Pelegrus Tassorellus.
+* **LUOGHI:** Ianua, Palatium Communis (sala nominata 'Fraschea'), Mochonexi, Zoalio, Plicania, Olivele, Porta Aurea, burgus Sancti Stephani, shop of Pelegro Tassorello.
+* **OGGETTI:** domus, caxeum (formaggio), pannorum lane (panni di lana).
+
+**Regesto (Inglese/Latino)**
+
+Accordi tra Giovanni e Benedetto Colombo e i fratelli Piaggia riguardo pagamenti, proroghe e rinunce su debiti relativi a una casa, con coinvolgimento di altri membri delle famiglie e dettagli sulle proprietà.  Domenico Colombo riconosce un debito con Gerolamo delle Vigne per del formaggio. Bianchinetta rinuncia a diritti su una proprietà.
+
+1464 febbraio 7
+1464 luglio 5

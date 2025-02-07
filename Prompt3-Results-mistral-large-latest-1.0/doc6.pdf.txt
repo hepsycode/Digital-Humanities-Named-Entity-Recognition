@@ -1,0 +1,70 @@
+### Named Entity Recognition (NER)
+
+#### Testo in inglese:
+- **Persone:**
+  - Pietro Ghirardetto
+  - Antonio Musante (Fogliazzo)
+  - Lodisio of Pavia
+  - Domenico of Terrarossa
+  - Benedetto of Moconesi
+  - Antonio Bagnara
+  - Stefano Besaccia
+  - Deserino Garro
+  - Antonino (son of Colombo of Moconesi)
+  - Colombo of Moconesi
+
+- **Luoghi (borghi, navi, carceri, mercati e similari):**
+  - Genoa
+  - Borgo Santo Stefano
+  - Quinto
+  - Bisagno
+  - Moconesi
+  - Pavia
+
+- **Oggetti:**
+  - Fifty-two lire and ten soldi di genovini
+  - Plot of land
+  - Chestnut trees
+  - Wooded area
+  - Meadow
+  - Public street
+  - Property
+
+### Testo in latino:
+- **Persone:**
+  - Petrus de Guiratdeto
+  - Antonio de Muzante (Foliacio)
+  - Lodixio de Papia
+  - Dominicus de Terra Rubea
+  - Benedicto de Moconexi
+  - Antonii de Bagneria
+  - Stephani Bezacie
+  - Dexerini Garri
+  - Antonino de Columbo de Moconexi
+  - Columbo de Moconexi
+  - Iohannis
+  - Barthelemy de Faciis
+  - Martini de Faciis
+
+- **Luoghi (borghi, navi, carceri, mercati e similari):**
+  - Ianue (Genoa)
+  - Burgo Sancti Stephani
+  - Quinti
+  - Bisamnis
+  - Moconexi
+  - Papia
+  - Plana Bisamnis
+  - Quarterio Sancti Fructuosi
+
+- **Oggetti:**
+  - Libras quinquaginta duas et soldos decem ianuinorum
+  - Peciam terre
+  - Castaneate et boschive
+  - Prative
+  - Via publica
+  - Terra
+
+### Regesto
+Pietro Ghirardetto riconosce pubblicamente di dovere a Antonio Musante cinquantadue lire e dieci soldi genovini. Domenico di Terrarossa vende a Benedetto di Moconesi un terreno a Quinto.
+
+1444 gennaio 21

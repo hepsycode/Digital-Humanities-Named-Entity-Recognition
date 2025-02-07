@@ -1,0 +1,37 @@
+Ecco l'output formattato come file CSV:
+
+```csv
+Nome Entity,Nome Esteso (Latino),Categoria,Ruolo
+Giovanni Colombo,Iohannes de Columbo,person,Figlio di Luca, coinvolto in transazioni economiche
+Luca,Luce,person,Padre di Giovanni Colombo, deceduto
+Pasquale Piaggia,Pasqual de Plazia,person,Fratello di Michele Piaggia, artigiano e abitante di Genova, coinvolto in transazioni economiche
+Michele Piaggia,Michael de Plazia,person,Fratello di Pasquale Piaggia, artigiano e abitante di Genova, coinvolto in transazioni economiche
+Oberto Piaggia,Obertus de Plazia,person,Padre di Pasquale e Michele Piaggia, coinvolto in transazioni economiche
+Appolonia,Apolonia,person,Figlia di Pietro Rimassa, moglie di Tommaso Piaggia, coinvolta in transazioni immobiliari
+Pietro Rimassa,Petrus Roymacia,person,Padre di Appolonia, fornaio, coinvolto in transazioni immobiliari
+Tommaso Piaggia,Thomam de Plazia,person,Fratello di Pasquale e Michele Piaggia, deceduto, coinvolto in transazioni immobiliari
+Benedetto Dezerga,Benedictus de Dezerega,person,Coinvolto in transazioni immobiliari
+Benedetto Colombo,Benedictus Columbo,person,Fratello di Giovanni Colombo, tessitore di panni di lana, coinvolto in transazioni economiche
+Antonio Leverone,Antonius de Leverono,person,Proxy di Giovanni Colombo, coinvolto in transazioni economiche
+Mariola,Mariola,person,Figlia di Pietro Rimassa, moglie di Pasquale Piaggia, coinvolta in transazioni immobiliari
+Domenichina,Dominichina,person,Madre di Bianchinetta, moglie di Oberto Balbi, coinvolta in transazioni economiche
+Oberto Balbi,Obertus Balbi,person,Padre di Bianchinetta, marito di Domenichina, coinvolto in transazioni economiche
+Pellegro Piaggia,Pellegro Piaggia,person,Marito di Bianchinetta, calzolaio, coinvolto in transazioni economiche
+Giovanni Rocca,Iohannes Rocca,person,Marito di Domenichina, padre di Oberto Balbi, coinvolto in transazioni economiche
+Domenico Colombo,Dominicus de Columbo,person,Figlio di Giovanni Colombo, formaggiaio, coinvolto in transazioni economiche
+Gerolamo delle Vigne,Ieronimus de Vineis,person,Figlio di Lanfranco, formaggiaio, coinvolto in transazioni economiche
+Lanfranco,Lanfrancus,person,Padre di Gerolamo delle Vigne, deceduto
+Cristoforo Sisto,Christoforus Sixtus,person,Notaio, coinvolto in transazioni economiche
+Nicolò Garumbero,Nicolaus Garumberius,person,Notaio, coinvolto in transazioni economiche
+Giovanni Brignole,Iohannes de Brignolis,person,Notaio, coinvolto in transazioni economiche
+Genova,Ianua,place,Città in cui si svolgono le transazioni economiche e immobiliari
+Moconesi,Mochonexi,place,Località di provenienza di Giovanni Colombo
+Zoagli,Zoalio,place,Località di provenienza di Pasquale e Michele Piaggia
+Olivella,Olivele,place,Distretto di Genova, luogo di una casa venduta
+Portoria,Porta Aurea,place,Distretto di Genova, luogo di una casa venduta
+Borgo Santo Stefano,Burgus Sancti Stephani,place,Località di Genoa, luogo di una casa venduta
+Casa,domus,physical object,Oggetto di transazioni immobiliari
+Lire di genovini,libra ianuina,physical object,Unità di misura monetaria utilizzata nelle transazioni economiche
+```
+
+Questo file CSV contiene le entità identificate nei testi in inglese e latino, con le rispettive categorie e ruoli.

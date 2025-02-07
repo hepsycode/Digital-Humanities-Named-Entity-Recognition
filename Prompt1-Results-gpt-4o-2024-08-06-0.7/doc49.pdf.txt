@@ -1,0 +1,60 @@
+### Named Entity Recognition:
+
+**Persone:**
+- Giovanni Colombo
+- Pasquale Piaggia
+- Michele Piaggia
+- Luca Colombo (deceased)
+- Oberto Piaggia
+- Antonio Leverone
+- Benedetto Colombo
+- Tommaso Piaggia (deceased)
+- Benedetto Dezerga
+- Pietro Rimassa
+- Appolonia
+- Cristoforo Sisto (notary)
+- Andrea Pietra
+- Giacomo Assereto
+- Battista Assereto
+- Mariola
+- Nicolò Garumbero (notary)
+- Giovanni Brignole (notary)
+- Domenico Colombo
+- Gerolamo delle Vigne
+- Lanfranco (deceased)
+- Bianchinetta
+- Pellegro Piaggia
+- Domenichina (deceased)
+- Giovanni Rocca (deceased)
+- Angelino Colombo (deceased)
+- Benedictina
+- Mariola (sister of Benedictina)
+- Julian de Gazio
+- Benedicti de Colombo
+- Ioannis de Chesta Antonius
+- Laurentio de Costa (notary)
+- David de Staliano
+- Crescio
+- Battista Tassorello
+
+**Luoghi:**
+- Genoa
+- Olivella district
+- Portoria district
+- Borgo Santo Stefano
+- Porta Sant'Andrea
+- Borgo San Stefano
+- Sala Fraschea
+- Carrubeus (presumably a road or path)
+
+**Oggetti:**
+- Lire di genovini (currency)
+- House in Olivella district
+- House in Portoria district
+- Cheese
+- Public document
+- Dowry
+- Instrument of payment
+- Mortgage
+
+The entities have been extracted from both the English and Latin texts. The focus was on identifying names of people, places (including districts and specific locations within Genoa), and objects of interest such as currency and legal documents.

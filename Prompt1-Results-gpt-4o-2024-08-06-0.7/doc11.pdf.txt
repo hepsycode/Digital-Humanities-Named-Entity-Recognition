@@ -1,0 +1,134 @@
+Ecco l'analisi di Named Entity Recognition (NER) per entrambi i testi, con l'estrazione di persone, luoghi e oggetti:
+
+### Persone
+- **Testo in inglese:**
+  - Giano Campofregoso
+  - Domenico Colombo
+  - Antonino Colombo
+  - Domenichino Colombo
+  - Giovanni (padre dei Colombo)
+  - Pasquale Frittalo
+  - Giovanni Frittalo
+  - Battistina
+  - Bartolomeo from Terrarossa
+  - Bartolomeo Riccio
+  - Giorgio Clavarino
+  - Matteo Ferrari
+  - Antonio Bassano
+  - Cesare from Sarzana
+  - Taliano Castronovo
+  - Francesco Falcinello
+  - Franceschino Castronovo
+  - Isolino Compiano
+  - Guglielmo Ungaro
+  - Lorenzo from Pietrasanta
+  - Antonio della Rocchetta
+  - Pietro del Carretto
+  - Bertone di Alpe
+  - Francesco Centa
+  - Arunsino from Milano
+  - Scarnichio from Milano
+  - Guirardo Monsia
+  - Matteo Monsia
+  - Filippo Zucca
+  - Pietro Paolo from Forlì
+  - Bartolomeo Pevere
+  - Veneziano from Vallesturla
+  - Enrico Savignone
+  - Filiberto di Francia
+  - Ser Manfredo from Filattiera
+  - Nardo from Eboli
+  - Battista Palma
+  - Giovannetto from Capriata
+  - Bonvexius from Milano
+  - Conradus from Bavera
+  - Georgius from Capriata
+  - Giovanni from Firenze
+  - Domenico from Mestre
+  - Pietro from Magenta
+  - Pietro from Sansepolcro
+  - Bertone from Podenzana
+  - Gerolamo from Pontremoli
+  - Luca Compiano
+  - Giovanni from Brignano
+  - Creseto from Trisana
+  - Agosto from Bargone
+  - Antonio Busto
+  - Giovanni from Forlì
+  - Nicolò from Venezia
+  - Rinaldo from Tersogno
+  - Giovanni Schiavo
+  - Andrea d'Allemagna
+  - Giovanni della Cella
+  - Giorgio Schiavo
+  - Antonio Somma
+  - Giardolo Vacca
+  - Nicolò di Boemia
+  - Antonio Zucca
+  - Ettore Ravaschiero
+  - Antonio Fantone
+  - Giovanni Gatto
+  - Felice Chiavari
+  - Ambrogio Oneto
+  - Giovanni Castiglione
+  - Gerolamo Corso
+  - Antonello from Calabria
+  - Giovanni from Venezia
+
+- **Testo in latino:**
+  - Ianus de Campofregoso
+  - Dominicus de Columbo
+  - Antoninus de Colombo
+  - Domenighinus de Colombo
+  - Iohannes (padre dei Colombo)
+  - Pasqualis de Fritalo
+  - Iohannes de Fritalo
+  - Batestina
+  - Bartholomeo de Terrarubea
+  - Bartholomeo Ricio
+  - Georgius Clavarino
+  - Mateus Ferrarius
+  - Antonius Baxanus
+  - Cezarus de Sarzana
+  - Talianus de Castronovo
+  - Franciscus de Facinelo
+  - Franceschinus de Castronovo
+  - Isolinus de Compiano
+  - Gullielmus Ungarus
+  - Laurentius de Petrasancta
+  - Antonius de Rocheta
+  - Dominicus de Mestre
+  - Petrus de Mazenta
+  - Petrus de Sancto Sepulcro
+  - Berthonus de Podensana
+  - leronimus de Pontremulo
+  - Lucas de Compiano
+  - Iohannes de Brignano
+  - Cresetus de Trisana
+  - Augustus de Bargono
+
+### Luoghi
+- **Testo in inglese:**
+  - Genoa
+  - Quinto (villaggio)
+  - Olivella (porta e torre)
+  - Bisagno (giurisdizione)
+
+- **Testo in latino:**
+  - Genua (Genova)
+  - Quinti (villa)
+  - Olivele (porta e torre)
+  - Bisannis (potestà)
+
+### Oggetti
+- **Testo in inglese:**
+  - sessanta lire di genovini
+  - cento venticinque lire di genovini
+  - sei cucchiai d'argento
+
+- **Testo in latino:**
+  - libras sexaginta lanue
+  - libras centum viginti quinque lanue
+  - coclearia sex argenti
+
+Questa analisi evidenzia le entità nominate all'interno dei testi, confrontando le versioni inglese e latina.

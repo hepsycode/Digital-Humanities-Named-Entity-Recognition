@@ -1,0 +1,41 @@
+```csv
+entity,latin_name,category,role
+Domenico Colombo,Dominicus de Columbo,person,Weaver of woolen cloth; husband of Susanna Fontanarossa; seller of land and house
+Christopher Colombo,Christofforus de Columbo,person,Brother of Domenico Colombo
+Nicola Raggio,Nicola Raggio,person,Notary
+Raffaele of Bisagno,Raffael de Bisanne,person,Baker; witness
+Agosto from Pometò,Augustinus de Po meta,person,Witness; son of the deceased Raffaele
+Giovanni Longo del Carmine,Iohannes Longus de lo Carmine,person,Witness; son of the deceased Giovanni
+Battista Zenoglio,Baptista Zenogius,person,Consul of the Guild of the Weavers of Woolen Cloth
+Giovanni Garaventa,Iohannes de Garaventa,person,Consul of the Guild of the Weavers of Woolen Cloth
+Leone Cigala,Leo de Cigalis,person,Member of the guild's regulatory committee
+Guglielmo from Pentema,Guillielmi de Pentema,person,Member of the guild's regulatory committee
+Angelino Bertegale,Angelini de Bertegali,person,Member of the guild's regulatory committee
+Benone Alsarino,Bertoni de Alsarino,person,Member of the guild's regulatory committee
+Giovanni Boiano,Iohannes Boiani,person,Member of the guild's regulatory committee
+Simone Rossano,Simonis de Rossano,person,Member of the guild's regulatory committee
+Antonio Garibaldo,Antonii de Garibaldo,person,Member of the guild's regulatory committee
+Wool merchants,laneriis,person,Payers for the weaving of cloth
+Genoa,Ianue,place,Location of the notarial acts; broader location of various events
+Fossatello,in Fossatello,place,Specific location in Genoa where the first document was signed
+Santo Stefano monastery,monasterii Sancti Stephani,place,Location in Genoa where the second document was signed; specifically its cloister portico
+Serravalle Palace,Serravalle Palace,place,Location in Genoa where the third document was signed; specifically the first hall, also a court of pleas.
+God's Holy Gospels,Holy Gospels,physical object,Object upon which oaths were sworn
+Woolen cloth,pannorum lane,physical object,Material being woven; subject of the guild's regulations
+Silk cloth,N/A,physical object,Material being woven by Leonardo Varazzino and taught to Tommaso Colombo
+Lands and possessions with a house,lands and possessions with a house,physical object,Property sold by Domenico Colombo to Giuliano and Stampino Caprile
+Document of sale,document of sale,physical object,Record of the sale of property
+Martino Novara,Martino de Novaria,person,Cobbler; witness; son of the deceased Serafino
+Luca Rovereto,Luca de Ruvereto,person,Barber; witness; son of the deceased Andrea
+Andrea Viganego,Andrea de Viganego,person,Miller; witness; son of the deceased Luca
+Antonio Colombo,Antonio Colombo,person,Father of Tommaso Colombo; promised his son's apprenticeship
+Leonardo Varazzino,Leonardo Varazzino,person,Weaver of silk cloth; master of Tommaso Colombo
+Tommaso Colombo,Thomas,person,Son of Antonio Colombo; apprentice to Leonardo Varazzino
+Silvestro Cornero,Silvestro Cornero,person,Spice dealer; witness
+Visconte from Calvari,Visconte from Calvari,person,Tanner; witness
+Susanna Fontanarossa,Susanna,person,Daughter of the deceased Giacomo Fontanarossa; wife of Domenico Colombo
+Giuliano Caprile,Giuliano Caprile,person,Buyer of land and house from Domenico Colombo
+Stampino Caprile,Stampino Caprile,person,Buyer of land and house from Domenico Colombo
+Goagnino Fontanarossa,Goagnino Fontanarossa,person,Brother of Susanna Fontanarossa; protested the sale of land and house
+Pietro Fazio,Pietro Fazio,person,Notary who documented Goagnino Fontanarossa's protest
+```

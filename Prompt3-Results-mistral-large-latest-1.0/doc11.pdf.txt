@@ -1,0 +1,189 @@
+### Testo in inglese:
+
+**Named Entity Recognition:**
+
+- **Persone:**
+  - Giano Campofregoso
+  - Domenico Colombo
+  - Giovanni (deceased)
+  - Antonino Colombo
+  - Domenichino Colombo
+  - Pasquale Frittalo
+  - Giovanni Frittalo
+  - Battistina
+  - Angelo di Negro
+  - Bartolomeo
+  - Bartolomeo Riccio
+  - Giorgio Clavarino
+  - Giovanni
+  - Matteo Ferrari
+  - Antonio Bassano
+  - Cesare
+  - Taliano Castronovo
+  - Francesco Falcinello
+  - Franceschino Castronovo
+  - Isolino Compiano
+  - Guglielmo Ungaro
+  - Lorenzo
+  - Casamatta
+  - Antonio della Rocchetta
+  - Pietro del Carretto
+  - Bertone di Alpe
+  - Francesco Centa
+  - Arunsino
+  - Guirardo Monsia
+  - Matteo Monsia
+  - Filippo Zucca
+  - Pietro Paolo
+  - Bartolomeo Pevere
+  - Veneziano
+  - Enrico Savignone
+  - Filiberto di Francia
+  - Ser Manfredo
+  - Nardo
+  - Battista Palma
+  - Giovannetto
+  - Bonvexius
+  - Conradus
+  - Georgius
+  - Giovanni
+  - Domenico
+  - Pietro
+  - Bertone
+  - Gerolamo
+  - Luca Compiano
+  - Giovanni
+  - Creseto
+  - Agosto
+  - Antonio Busto
+  - Nicolò
+  - Rinaldo
+  - Giovanni Schiavo
+  - Andrea
+  - Giovanni della Cella
+  - Giorgio Schiavo
+  - Antonio Somma
+  - Giardolo Vacca
+  - Nicolò di Boemia
+  - Antonio Zucca
+  - Ettore Ravaschiero
+  - Antonio Fantone
+  - Giovanni Gatto
+  - Felice Chiavari
+  - Ambrogio Oneto
+  - Giovanni Castiglione
+  - Gerolamo Corso
+  - Antonello
+
+- **Luoghi (borghi, navi, carceri, mercati e simili):**
+  - Genoa
+  - Olivella gate and tower
+  - Quinto
+  - Bisagno
+  - Pietrasanta
+  - Terra­rossa
+  - Sarzana
+  - Castronovo
+  - Compiano
+  - Brignano
+  - Trisana
+  - Bargone
+  - Milano
+  - Bavera
+  - Capriata
+  - Firenze
+  - Mestre
+  - Magenta
+  - Sansepolcro
+  - Podenzana
+  - Pontremoli
+  - Eboli
+  - Filattiera
+  - Vallesturla
+  - Forlì
+  - Venezia
+  - Calabria
+  - Boemia
+  - Allemagna
+
+- **Oggetti:**
+  - lire di genovini
+  - silver spoons
+  - horse
+  - notary
+  - servant
+  - adjutant
+
+**Regesto:**
+Domenico Colombo è nominato custode della torre e porta Olivella dal doge Giano Campofregoso. I fratelli Antonino e Domenichino Colombo riconoscono un debito di 60 lire genovini e 6 cucchiai d'argento a Pasquale Frittalo per la dote di Battistina.
+
+**Data del documento:**
+1448 April 20
+
+### Testo in latino:
+
+**Named Entity Recognition:**
+
+- **Persone:**
+  - Dominicus de Columbo
+  - Peregro vitrerio
+  - Antonio de Portu
+  - Benedictus de Solario
+  - Iohannis
+  - Dux
+  - Antoninus
+  - Domenighinus
+  - Pasquali de Fritalo
+  - Iohannis de Fritalo
+  - Iohannis
+  - Angeli de Nigro
+  - Bartholomeo
+  - Bartholomeo Ricio
+  - Georgio Clavarino
+  - Mateus Ferrarius
+  - Antonius Baxanus
+  - Cezarus de Sarzana
+  - Talianus de Castronovo
+  - Franciscus de Facinelo
+  - Franceschinus de Castronovo
+  - Isolinus de Compiano
+  - Gullielmus Ungarus
+  - Laurentius
+  - Antonius de Rocheta
+
+- **Luoghi (borghi, navi, carceri, mercati e simili):**
+  - Aurie
+  - lanuensium
+  - Genoa
+  - Olivele
+  - Quinti
+  - Bisannis
+  - Sarzana
+  - Castronovo
+  - Compiano
+  - Brignano
+  - Trisana
+  - Bargono
+  - Mestr
+  - Mazenta
+  - Sancto Sepulcro
+  - Podensana
+  - Pontremulo
+  - Petrasancta
+  - Rocheta
+
+- **Oggetti:**
+  - libras
+  - possessiones
+  - denarii
+  - coclearia
+  - pannorum
+  - cartulario
+  - dotium
+  - equus
+
+**Regesto:**
+Dominicus de Columbo è nominato custode della torre e porta Olivella dal doge Ianus de Campofregoso. Antoninus e Domenighinus fratres de Colombo riconoscono un debito di 60 lire genovini e 6 cucchiai d'argento a Pasquali de Fritalo per la dote di Batestine.
+
+**Data del documento:**
+1448 April 20

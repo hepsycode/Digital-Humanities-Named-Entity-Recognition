@@ -1,0 +1,74 @@
+**Named Entity Recognition e Analisi Testuale:**
+
+**PERSONE:**
+
+* Pietro Ghirardetto
+* Antonio Musante (detto Fogliazzo)
+* Antonino (figlio di Colombo di Moconesi)
+* Lodisio di Pavia (laniere)
+* Domenico di Terrarossa
+* Benedetto di Moconesi
+* Antonio Bagnara
+* Stefano Besaccia
+* Deserino Garro
+* Matteo de Flisco (conte di Lavagna)
+* Cardinale Giorgio (titolo di Santa Anastasia)
+* Battista de Calisano (notaio)
+* Ieronimo de Pendola (priore claustrale)
+* Gregorio de Verdura
+* Michele Garronus
+* Battista de Costaguta
+* Dominighino Colombo (tessitore, figlio di Giovanni)
+* Pietro de Croza di Rapallo
+* Bertore de Valetariis
+* Raffus de Gravano
+* Iacobo Mazurro (notaio)
+* Pietro Antonio Narixe (figlio di Giovanni)
+* Guglielmo di Triclino
+* Antonio Ratto di Monterosato
+* Simone di Mongiardino
+* Bartolomeo de Facio (figlio di Martino)
+* Guillielmo de Fontanarubea (figlio di Stefano)
+* Martino de Facio
+
+
+**LUOGHI:**
+
+* Genova
+* Borgo Santo Stefano
+* Villaggio di Quinto
+* Giurisdizione del podestà di Bisagno
+* Moconesi
+* Le Fasciole (località)
+* Palazzo Ducale
+* Monastero di Santo Stefano
+* Carrubeo di Olivella
+* Terrarossa
+* Piano di Bisagno
+* Quartiere di San Fruttuoso
+* Casa di Lodisio di Pavia
+* Casa di Martino de Facio
+
+
+**OGGETTI:**
+
+* Terra (appezzamento)
+* Castagneti
+* Bosco
+* Prato
+* Pannni (tessuti)
+* Soldi (moneta)
+* Lire (moneta)
+* Campana
+
+
+**Regesto:**
+
+Atti notarili riguardanti transazioni finanziarie, vendite di terreni e locazioni a Genova e dintorni. Pietro Ghirardetto salda un debito con Antonio Musante. Domenico di Terrarossa vende un terreno a Benedetto di Moconesi. Matteo de Flisco concede in affitto un terreno a Dominighino Colombo.
+
+**Data del documento:**
+
+1444 gennaio 21
+1440 settembre 6
+1439 aprile 1
+1437 dicembre 15

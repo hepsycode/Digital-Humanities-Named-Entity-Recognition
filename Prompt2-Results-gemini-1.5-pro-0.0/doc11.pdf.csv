@@ -1,0 +1,45 @@
+```csv
+entity,latin_name,category,role
+Giano Campofregoso,Ianus de Campofregoso,person,Doge of Genoa; appoints Domenico Colombo as keeper of the Olivella gate and tower.
+Domenico Colombo,Dominicus de Columbo,person,Appointed keeper of the Olivella gate and tower by Giano Campofregoso. Also mentioned as a textor pannorum (weaver of cloths).
+Olivella gate and tower,turris et porte Olivele,place,Genoese gate and tower; Domenico Colombo is appointed its keeper.
+Antonino Colombo,Antoninus de Colombo,person,Son of the deceased Giovanni; inhabitant of Quinto; owes Pasquale Frittalo sixty lire di genovini and three silver spoons as part of his sister Battistina's dowry.
+Domenichino Colombo,Domenighinus de Colombo,person,Son of the deceased Giovanni; inhabitant of Quinto; owes Pasquale Frittalo sixty lire di genovini and three silver spoons as part of his sister Battistina's dowry.
+Giovanni Colombo,Iohannis de Colombo,person,Deceased father of Antonino and Domenichino Colombo.
+Quinto,ville Quinti,place,Village in the jurisdiction of the podestà of Bisagno; residence of the Colombo brothers and Pasquale Frittalo.
+Bisagno,potestacie Bisannis,place,Jurisdiction where Quinto is located.
+Pasquale Frittalo,Pasqualis de Fritalo,person,Inhabitant of Quinto; receives sixty lire di genovini and six silver spoons from the Colombo brothers as part of his son's wife's dowry.
+Battistina Colombo,Batestina de Colombo,person,Sister of Antonino and Domenichino Colombo; wife of Giovanni Frittalo; her dowry is one hundred and twenty-five lire di genovini.
+Giovanni Frittalo,Iohannis de Fritalo,person,Son of Pasquale Frittalo; husband of Battistina Colombo.
+sixty lire di genovini,libras sexaginta Ianue,physical object,Currency; part of Battistina's dowry, owed by the Colombo brothers to Pasquale Frittalo.
+one hundred and twenty-five lire di genovini,libris centum viginti quinque lanue,physical object,Currency; total amount of Battistina's dowry.
+six silver spoons,coclearia sex argenti,physical object,Part of Battistina's dowry, owed by the Colombo brothers to Pasquale Frittalo.
+St. Michael's Day,festum Sancti Michaelis,place,Date by which five lire di genovini are due to Pasquale Frittalo.
+Christmas,festo Nativitatis Domini,place,Date from which the remaining fifty lire di genovini are due in installments over five years.
+Genoa,Ianue,place,Location where the document was enacted.
+house of Angelo di Negro,domo Angeli de Nigro et fratris,place,Location in Genoa where the document was enacted, specifically under the house and at the bench of the notary.
+Bartolomeo from Terrarossa,Bartholomeo de Terrarubea,person,Witness to the document.
+Bartolomeo Riccio,Bartholomeo Ricio,person,Notary and witness to the document.
+Giorgio Clavarino,Georgio Clavarino Iohannis,person,Witness to the document.
+Matteo Ferrari,Mateus Ferrarius,person,Witness to the document.
+Antonio Bassano,Antonius Baxanus,person,Witness to the document.
+Cesare from Sarzana,Cezarus de Sarzana,person,Witness to the document.
+Taliano Castronovo,Talianus de Castronovo,person,Witness to the document.
+Francesco Falcinello,Franciscus de Facinelo,person,Witness to the document.
+Franceschino Castronovo,Franceschinus de Castronovo,person,Witness to the document.
+Isolino Compiano,Isolinus de Compiano,person,Witness to the document.
+Guglielmo Ungaro,Gullielmus Ungarus,person,Witness to the document.
+Lorenzo from Pietrasanta,Laurentius de/etrasancta,person,Witness to the document.
+Casamatta,Cazamata,person,Witness to the document.
+Antonio della Rocchetta,Antonius de Rocheta,person,Witness to the document.
+Domenico from Mestre,Dominicus de Mestr:o,person,Witness to the document.
+a horse,equus unus,physical object,Possibly owned by Domenico from Mestre.
+Pietro from Magenta,Petrus de Mazenta,person,Witness to the document.
+Pietro from Sansepolcro,Petrus de Sancto Sepulcro,person,Witness to the document.
+Bertone from Podenzana,Berthonus dePodensana,person,Witness to the document.
+Gerolamo from Pontremoli,Ieronimus de Pontremulo,person,Witness to the document.
+Luca Compiano,Lucas de Compiano,person,Witness to the document.
+Giovanni from Brignano,Iohannes de Brignano,person,Witness to the document.
+Creseto from Trisana,Cresetus de Trisana,person,Witness to the document.
+Agosto from Bargone,Augustus de Bargono,person,Witness to the document.
+```

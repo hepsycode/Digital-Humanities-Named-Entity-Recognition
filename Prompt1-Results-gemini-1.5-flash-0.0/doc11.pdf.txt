@@ -1,0 +1,26 @@
+## Named Entity Recognition e Analisi Testuale dei Testi
+
+Entrambi i testi, inglese e latino, presentano lo stesso contenuto, una serie di documenti legali e amministrativi del XV secolo.  L'analisi NER si concentra sulle entità nominate, includendo luoghi (con la specifica richiesta di borghi e luoghi simili), oggetti e persone.  La lingua latina, essendo più formale e con una struttura sintattica diversa, richiede un'attenzione particolare.
+
+**Entità Rilevate (comuni ad entrambi i testi):**
+
+* **Persone:** Giano Campofregoso, Domenico Colombo, Antonino Colombo, Domenichino Colombo, Giovanni Colombo, Pasquale Frittalo, Giovanni Frittalo, Battistina, Bartolomeo da Terrarossa, Bartolomeo Riccio, Giorgio Clavarino, Matteo Ferrari, Antonio Bassano, Cesare da Sarzana, Taliano Castronovo, Francesco Falcinello, Franceschino Castronovo, Isolino Compiano, Guglielmo Ungaro, Lorenzo da Pietrasanta, Antonio della Rocchetta, Pietro del Carretto, Bertone di Alpe, Francesco Centa, Arunsino da Milano, Guirardo Monsia, Matteo Monsia, Filippo Zucca, Pietro Paolo da Forlì, Bartolomeo Pevere, Veneziano da Vallesturla, Enrico Savignone, Filiberto di Francia, Ser Manfredo da Filattiera, Nardo da Eboli, Battista Palma, Giovannetto da Capriata, Bonvexius da Milano, Conradus da Bavera, Georgius da Capriata, Giovanni da Firenze, Domenico da Mestre, Pietro da Magenta, Pietro da Sansepolcro, Bertone da Podenzana, Gerolamo da Pontremoli, Luca Compiano, Giovanni da Brignano, Creseto da Trisana, Agosto da Bargone, Antonio Busto, Giovanni da Forlì, Nicolò da Venezia, Rinaldo da Tersogno, Giovanni Schiavo, Andrea d'Allemagna, Giovanni della Cella, Giorgio Schiavo, Antonio Somma, Giardolo Vacca, Nicolò di Boemia, Antonio Zucca, Ettore Ravaschiero, Antonio Fantone, Giovanni Gatto, Felice Chiavari, Ambrogio Oneto, Giovanni Castiglione, Gerolamo Corso, Antonello da Calabria, Giovanni da Venezia, Angelo di Negro.
+
+* **Luoghi (Borghi e simili):** Quinto, Bisagno, Genoa, Terra Rossa, Sarzana, Castronovo, Pietrasanta, Milano, Forlì, Vallesturla, Filattiera, Eboli, Capriata, Bavera, Firenze, Mestre, Magenta, Sansepolcro, Podenzana, Pontremoli, Brignano, Trisana, Bargone, Venezia, Tersogno, Calabria.
+
+* **Oggetti:**  lire di genovini, cucchiai d'argento (cocleari argenti), cavalli (equus).
+
+
+**Note:**
+
+* La lista delle persone è estesa a causa della presenza di numerosi testimoni nei documenti.
+* Alcuni nomi di luogo potrebbero essere interpretati in modo diverso a seconda del contesto storico e geografico.  Un'analisi più approfondita potrebbe essere necessaria per una maggiore precisione.
+* L'identificazione di "navi", "carceri" o "mercati" non è presente nei testi forniti.
+
+
+**Differenze nell'estrazione tra testo inglese e latino:**
+
+La principale differenza nell'estrazione delle entità tra il testo inglese e quello latino risiede nella forma linguistica. Il testo inglese, essendo più moderno, facilita l'identificazione delle entità grazie a una sintassi più lineare e a una terminologia più familiare agli strumenti di NER. Il testo latino, invece, richiede una maggiore attenzione alla declinazione e alla struttura delle frasi per un'estrazione accurata.  Ad esempio, l'identificazione dei luoghi nel testo latino richiede una maggiore attenzione alla forma dei nomi propri e alla loro funzione grammaticale all'interno della frase.
+
+
+In conclusione, l'analisi NER ha permesso di estrarre con successo le entità principali dai due testi, evidenziando le sfide e le peculiarità legate all'analisi di testi storici in lingue diverse.  Un'analisi più sofisticata, che includa l'analisi del contesto storico e geografico, potrebbe migliorare ulteriormente l'accuratezza dei risultati.

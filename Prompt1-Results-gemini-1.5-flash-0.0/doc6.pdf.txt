@@ -1,0 +1,41 @@
+## Named Entity Recognition e Analisi Testuale dei Testi Inglese e Latino
+
+I due testi presentano atti notarili, uno in inglese e uno in latino, che descrivono transazioni di proprietà e riconoscimenti di debito.  L'analisi NER (Named Entity Recognition) identificherà le entità nominate, inclusi luoghi, oggetti e persone.  La traduzione del testo latino è necessaria per una comparazione completa.
+
+
+**Entità Nominate (NER) - Testo Inglese:**
+
+* **Persone:** Pietro Ghirardetto, Antonio Musante (Fogliazzo), Guglielmo di Triclino, Antonio Ratto di Monterosato, Simone di Mongiardino, Antonino (figlio di Colombo di Moconesi), Lodisio di Pavia, Domenico di Terrarossa, Benedetto di Moconesi, Antonio Bagnara, Stefano Besaccia, Deserino Garro.
+* **Luoghi:** Genoa (Genova), Quinto, Bisagno, Borgo Santo Stefano, Pavia.
+* **Oggetti:** lire, soldi di genovini,  plot of land (appezzamento di terreno), chestnut trees (castagni), wooded area (area boschiva), meadow (prato), public street (via pubblica), house (casa), wool-worker (lanaio).
+* **Date:** sixth day of September, 1444, twenty-first day of January, sixth indiction.
+* **Organizzazioni/Istituzioni:** podestà of Bisagno.
+
+
+**Entità Nominate (NER) - Testo Latino:**
+
+* **Persone:** Mattheus de Flisco (conte di Lavania), Georgius (cardinale de Flisco), Baptista de Calisano, Ieronjmus de Pendola, Gregorius de Verdura, Michael Garronus, Baptista de Costaguta, Dominighino Colombo, Ioannes (padre di Dominighino Colombo), Petrus de Croza, Bertore de Valetariis, Raffus de Gravano, Gulielmo de Triclino, Antonio Ratto de Monterosato, Simone de Mongiardino, Petrus de Guiratdeto, Antonio de Muzante (Foliacio), Lodisius de Papia, Dominicus de Terra Rubea, Benedictus de Moconexi, Antonius de Bagneria, Stephanus Bezacie, Dexerinus Garri, Jacobus Mazurro, Stephanus (padre di Jacobus Mazurro), Petrus Antonius Narixe, Ioannes (padre di Petrus Antonius Narixe), Bartholomeo de Facio, Guillielmo de Fontanarubea, Stephanus (padre di Guillielmo de Fontanarubea), Martinus de Facio.
+* **Luoghi:** Ianue (Genova), Lavania, monasterium Sancti Stephani Ianuensis, carubeo de Olivella, Rapallo, Valetariis, villa Quinti, potestatie Bisamnis, burgo Sancti Stephani, Papia, Moconexi, platea Palatii Ducalis,  Bisamnis, quarterio Sancti Fructuosi.
+* **Oggetti:**  terra seu solum (terreno), edificium unius domus (edificio di una casa), pannorum (tessuti), soldi ianuinorum (soldi genovesi), libras (lire),  peciam terre (appezzamento di terra), castaneate (castagneto), boschive (bosco), prative (prato), via publica (via pubblica), domus (casa), lanaerii (lanaio).
+* **Date:** millesimo quadringentesimo trigesimo nono, prima aprilis, prima indictione, MCCCCXXXX, VI septembris, secunda indictione, MCCCCXXXXIIII, vigesimo primo mensis Ianuarii, sexta indictione, MCCCCXXX?-, XV decembris, octava indictione.
+* **Organizzazioni/Istituzioni:** monasterii Sancti Stephani,  potestatie Bisamnis.
+
+
+**Luoghi Simili (Borghi, ecc.):**
+
+Entrambi i testi menzionano diversi luoghi, ma non specificatamente borghi, navi, carceri o mercati.  "Quinto" e "Borgo Santo Stefano" (testo inglese) e "carubeo de Olivella", "villa Quinti", "burgo Sancti Stephani", "quarterio Sancti Fructuosi" (testo latino) sono esempi di località più piccole all'interno di Genova.
+
+
+**Oggetti:**
+
+L'elenco degli oggetti è riportato nelle sezioni NER di entrambi i testi.  Si tratta principalmente di elementi legati alle transazioni immobiliari e al denaro.
+
+
+**Osservazioni:**
+
+* La precisione della NER dipende dalla qualità del testo e dal livello di ambiguità.  Alcuni nomi potrebbero richiedere ulteriori ricerche contestuali per una classificazione più precisa.
+* Il testo latino presenta abbreviazioni e forme arcaiche che richiedono una conoscenza approfondita della lingua e del contesto storico.
+* La comparazione tra i due testi, una volta tradotto completamente il latino, permetterà di evidenziare eventuali differenze o incongruenze nella descrizione degli eventi e delle entità nominate.
+
+
+Questa analisi fornisce una base solida per un'ulteriore indagine e un'analisi più dettagliata.  Per un'analisi completa, è necessario tradurre il testo latino e confrontare le due versioni.

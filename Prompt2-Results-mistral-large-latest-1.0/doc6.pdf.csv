@@ -1,0 +1,40 @@
+```csv
+name,latin_name,category,role
+Columbus,Columbo,person,Resident of the village of Quinto, witness
+Guglielmo di Triclino,Gulielmo de Triclino,person,Witness, citizen of Genoa
+Antonio Ratto di Monterosato,Antonio Ratto de Monterosato,person,Witness, citizen of Genoa
+Simone di Mongiardino,Simone de Mongiardino,person,Witness, citizen of Genoa
+Pietro Ghirardetto,Petrus de Guiratdeto,person,Debtor, resident of the village of Quinto
+Antonio Musante,Antonio de Muzante,person,Creditor, resident of the village of Quinto
+Lodisio of Pavia,Lodixius de Papia,person,Witness, wool-worker, citizen of Genoa
+Antonino,Antoninus,person,Witness, son of Colombo of Moconesi, resident of the village of Quinto
+Domenico of Terrarossa,Dominicus de Terra Rubea,person,Seller, resident of the village of Quinto
+Benedetto of Moconesi,Benedictus de Moconexi,person,Buyer, resident of the village of Quinto
+Antonio Bagnara,Antonius de Bagneria,person,Landowner, neighbor
+Stefano Besaccia,Stephanus Bezacie,person,Landowner, neighbor
+Deserino Garro,Dexerinus Garri,person,Landowner, neighbor
+Mattheus de Flisco,Mattheus de Flisco,person,Count of Lavania, representative of Cardinal Georgius
+Jeronimus de Pendola,Ieronimus de Pendola,person,Prior, monk of the monastery of Sancti Stephani
+Gregorius de Verdura,Gregorius de Verdura,person,Monk, monk of the monastery of Sancti Stephani
+Michael Garronus,Michael Garronus,person,Monk, monk of the monastery of Sancti Stephani
+Baptista de Costaguta,Baptista de Costaguta,person,Monk, monk of the monastery of Sancti Stephani
+Quinto,Quinti,,village,Village in the jurisdiction of the podestà of Bisagno
+Bisagno,,place,Jurisdiction area
+Genoa,Ianue,place,City where the acts are performed
+Borgo Santo Stefano,burgo Sancti Stephani,place,Neighborhood in Genoa
+Pavia,,place,Origin of Lodisio
+Moconesi,,place,Origin of Benedetto
+Olivella,Olivella,place,Street in Genoa
+Rapallo,,place,Origin of Petri de Croza
+Valetariis,,place,Origin of Bertore de Valetariis
+Gravano,,place,Origin of Raffus de Gravano
+Burgo Santo Stefano,burgo Sancti Stephani,place,Neighborhood in Genoa
+Platea Palatii Ducalis,platea Palatii Ducalis,place,Public square in Genoa
+Palatii Ducalis,Palatii Ducalis,place,Palace in Genoa
+Monastery of Sancti Stephani,monasterium Sancti Stephani,place,Monastery in Genoa
+Parlatorio,parlatorio,place,Room in the monastery
+Domus habitacionis,domus habitacionis,place,House
+Platea domus habitacionis Martini de Facio,platea domus habitacionis Martini de Facio,place,Street in Bisagno
+Peciam terre,peciam terre,physical object,Plot of land
+Librarum quinquaginta sex Ianue,librarum quinquaginta sex Ianue,physical object,Payment amount
+```

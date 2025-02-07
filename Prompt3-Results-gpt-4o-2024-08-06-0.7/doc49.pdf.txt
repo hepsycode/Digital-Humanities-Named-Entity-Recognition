@@ -1,0 +1,62 @@
+**Named Entity Recognition:**
+
+**Persone:**
+- Giovanni Colombo
+- Luca (deceduto)
+- Pasquale Piaggia
+- Michele Piaggia
+- Oberto Piaggia
+- Antonio Leverone
+- Benedetto Colombo
+- Tommaso Piaggia (deceduto)
+- Benedetto Dezerga
+- Pietro Rimassa
+- Appolonia
+- Domenico Colombo
+- Gerolamo delle Vigne
+- Lanfranco (deceduto)
+- Bianchinetta
+- Pellegro Piaggia
+- Domenichina (deceduta)
+- Giovanni Rocca (deceduto)
+- Oberto Balbi (deceduto)
+- Mariola
+- Nicolò Garumbero
+- Giovanni Brignole
+- Pelegro Tassorello
+- Crescio
+- Battista Tassorello
+- Benedetto Monteborgo
+- Giacomo
+- Benedetto Monteburgo
+- Iacobo de Saona
+- David de Staliano
+- Laurentio de Costa
+
+**Luoghi:**
+- Moconesi
+- Zoagli
+- Genova
+- Olivella
+- Portoria
+- Borgo Santo Stefano
+- Cicagna
+- Savona
+- Porta Sant'Andrea
+- Palatio Communis
+- Fraschea
+- Ianue
+- Porta Aurea
+- Usio
+
+**Oggetti:**
+- Lire di genovini
+- Casa
+- Documento pubblico
+- Dote
+- Caxeo (formaggio)
+
+**Regesto (massimo 40 parole):**
+Giovanni Colombo riceve 25 lire di genovini da Michele Piaggia come pagamento parziale di un debito di 100 lire per l'acquisto di una casa. Benedetto Colombo concede un'estensione di due anni per il pagamento del debito residuo.
+
+**1464 febbraio 7**
